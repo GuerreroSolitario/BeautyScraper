@@ -195,5 +195,22 @@ public class AmoraBot {
             System.out.println("Error al comparar snapshots o enviar reporte: " + e.getMessage());
             System.exit(1);
         }
+        
+     // --- Actualizar snapshot A con B ---
+        try {
+            java.nio.file.Path pathA = Paths.get("./data/productos_A.json");
+            java.nio.file.Path pathB = Paths.get("./data/productos_B.json");
+
+            // Sobrescribir A con el contenido de B
+            Files.copy(pathB, pathA, java.nio.file.StandardCopyOption.REPLACE_EXISTING);
+
+            // Eliminar B si no quieres que quede guardado
+            Files.delete(pathB);
+
+            System.out.println("Snapshot actualizado: productos_A.json reemplazado con productos_B.json");
+        } catch (Exception e) {
+            System.out.println("Error al actualizar snapshot: " + e.getMessage());
+        }
+
     }
 }
