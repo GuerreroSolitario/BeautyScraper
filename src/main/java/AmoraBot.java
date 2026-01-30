@@ -187,8 +187,9 @@ public class AmoraBot {
                 StandardCharsets.UTF_8
             );
 
-            String token = "8277949027:AAGQV47zNYcpRlStAxPRvldXnLPQ2KOEu3U";   // coloca tu token real
-            String chatId = "7588555937"; // coloca tu chatId real
+            String token = System.getenv("TELEGRAM_TOKEN");
+            String chatId = System.getenv("TELEGRAM_CHAT_ID");
+
             TelegramUtils.sendTelegramMessageSplit(reporte, token, chatId);
 
         } catch (Exception e) {
