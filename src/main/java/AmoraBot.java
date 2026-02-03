@@ -118,45 +118,57 @@ public class AmoraBot {
                     }
                 }
                 
-                // --- Extraer datos de productos ---
-                Elements items = doc.select("a.product-item-link");
-                Elements precioPerfume = doc.select("span.special-price span.price");
-                Elements urlPerfume = doc.select("div.product-item-photo a");
-                Elements availability = doc.select("li.product-item");
+                // --- Recorrer cada card directamente ---
+                Elements products = doc.select("li.product-item");
                 
-                for(int i = 0; i < items.size(); i++) {
-                    Element stock = availability.get(i).selectFirst("div.actions-primary form[data-role=tocart-form]");
-                    Element outOfStock = availability.get(i).selectFirst("div.stock.unavailable");
-                    
+                for (int i = 0; i < products.size(); i++) {
+                    Element product = products.get(i);
+
+                    String nombre = product.select("a.product-item-link").text();
+                    String urlPerfume = product.select("div.product-item-photo a").attr("href");
+
+                    // Buscar precio: primero precio especial, luego normal
+                    Element precioTag = product.selectFirst("span.special-price span.price");
+                    if (precioTag == null) {
+                        precioTag = product.selectFirst("span.price");
+                    }
+                    String precioTexto = (precioTag != null) 
+                        ? precioTag.text().replace("$", "").replace(",", "") 
+                        : "0"; // valor por defecto
+                    double precio = Double.parseDouble(precioTexto);
+
+                    // Estado de stock
+                    Element stock = product.selectFirst("div.actions-primary form[data-role=tocart-form]");
+                    Element outOfStock = product.selectFirst("div.stock.unavailable");
                     String estado;
-                    if(stock != null) {
+                    if (stock != null) {
                         estado = "IN STOCK";
-                    } else if(outOfStock != null) {
+                    } else if (outOfStock != null) {
                         estado = "OUT OF STOCK";
                     } else {
                         estado = "Estado Desconocido";
                     }
-                    
-                    String precioTexto = precioPerfume.get(i).text().replace("$", "").replace(",", "");
-                    double precio = Double.parseDouble(precioTexto);
-                    
+
+                    // SKU: si hay suficientes, usa el índice; si no, asigna placeholder
+                    String sku = (i < skus.size()) ? skus.get(i) : "SKU-N/A";
+
                     Producto producto = new Producto(
-                        skus.get(i),
-                        items.get(i).text(),
+                        sku,
+                        nombre,
                         precio,
-                        urlPerfume.get(i).attr("href"),
+                        urlPerfume,
                         estado
                     );
-                    
+
                     productos.add(producto);
-                    
+
                     System.out.println(globalIndex + ". " 
-                        + items.get(i).text() + " - "
-                        + precioPerfume.get(i).text() + " - "
-                        + urlPerfume.get(i).attr("href") + " - "
-                        + skus.get(i) + " - "
+                        + nombre + " - "
+                        + precioTexto + " - "
+                        + urlPerfume + " - "
+                        + sku + " - "
                         + estado);
-                    
+
                     globalIndex++;
                 }
             } catch(Exception e) {
@@ -197,21 +209,17 @@ public class AmoraBot {
             System.exit(1);
         }
         
-     // --- Actualizar snapshot A con B ---
+        // --- Actualizar snapshot A con B ---
         try {
             java.nio.file.Path pathA = Paths.get("./data/productos_A.json");
             java.nio.file.Path pathB = Paths.get("./data/productos_B.json");
 
-            // Sobrescribir A con el contenido de B
             Files.copy(pathB, pathA, java.nio.file.StandardCopyOption.REPLACE_EXISTING);
-
-            // Eliminar B si no quieres que quede guardado
             Files.delete(pathB);
 
             System.out.println("Snapshot actualizado: productos_A.json reemplazado con productos_B.json");
         } catch (Exception e) {
             System.out.println("Error al actualizar snapshot: " + e.getMessage());
         }
-
     }
 }
