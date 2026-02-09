@@ -1061,7 +1061,7 @@
     "nombre": "Angel Nova Refillable 100Ml Edp Spray",
     "precio": 1149.0,
     "url": "https://amoramarket.com.mx/angel-nova-refillable-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "76420",
@@ -1586,7 +1586,7 @@
     "nombre": "Azzaro Wanted 100 Ml Edt Spray.",
     "precio": 689.0,
     "url": "https://amoramarket.com.mx/azzaro-wanted-100-ml-edt-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "LE171100",
@@ -3889,7 +3889,7 @@
     "nombre": "Fakhar Lattafa 100 Ml Edp Spray",
     "precio": 419.0,
     "url": "https://amoramarket.com.mx/fakhar-lattafa-100-ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "65170086",
@@ -8852,6 +8852,13 @@
     "nombre": "Set Guess Man Gold 3Pzs",
     "precio": 499.0,
     "url": "https://amoramarket.com.mx/set3-guess-man-gold-3pzs-html.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "34952",
+    "nombre": "Set Guess Seductive Blue 4Pzs",
+    "precio": 429.0,
+    "url": "https://amoramarket.com.mx/set-guess-seductive-blue-4pzs-3-html.html",
     "estado": "IN STOCK"
   },
   {
