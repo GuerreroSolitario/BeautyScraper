@@ -1376,7 +1376,7 @@
     "nombre": "Armaf Odyssey Homme White Edition 100Ml Edp Spray",
     "precio": 439.0,
     "url": "https://amoramarket.com.mx/armaf-odyssey-homme-white-edition-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "16393",
@@ -2765,18 +2765,18 @@
     "estado": "OUT OF STOCK"
   },
   {
-    "sku": "8Q8123100",
-    "nombre": "Ck One Shock 200 Ml Edt Spray.",
-    "precio": 459.0,
-    "url": "https://amoramarket.com.mx/catalog/product/view/id/2005/s/ck-one-shock-200-ml-edt-spray/category/112/",
-    "estado": "OUT OF STOCK"
-  },
-  {
     "sku": "8Q8124100",
     "nombre": "Ck One Shock 200 Ml Edt Spray.",
     "precio": 499.0,
     "url": "https://amoramarket.com.mx/ck-one-shock-200-ml-edt-spray.html",
     "estado": "IN STOCK"
+  },
+  {
+    "sku": "8Q8123100",
+    "nombre": "Ck One Shock 200 Ml Edt Spray.",
+    "precio": 459.0,
+    "url": "https://amoramarket.com.mx/catalog/product/view/id/2005/s/ck-one-shock-200-ml-edt-spray/category/112/",
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "CC001A01",
@@ -6199,7 +6199,7 @@
     "nombre": "Loewe 7 Cobalt 150Ml Edp Spray",
     "precio": 2169.0,
     "url": "https://amoramarket.com.mx/loewe-7-cobalt-150ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "70331",
