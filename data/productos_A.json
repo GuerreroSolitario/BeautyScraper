@@ -660,9 +660,9 @@
   {
     "sku": "10752",
     "nombre": "Afnan 9Pm Rebel 100Ml Edp Spray",
-    "precio": 769.0,
+    "precio": 699.0,
     "url": "https://amoramarket.com.mx/afnan-9pm-rebel-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "10747",
@@ -1575,17 +1575,17 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "65206733",
-    "nombre": "Bad Boy Extreme 100Ml Edp Spray",
-    "precio": 1959.0,
-    "url": "https://amoramarket.com.mx/catalog/product/view/id/531862/s/bad8-boy-extreme-100ml-edp-spray-html/category/112/",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "65187305",
     "nombre": "Bad Boy Extreme 100Ml Edp Spray",
     "precio": 1809.0,
     "url": "https://amoramarket.com.mx/bad-boy-extreme-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "65206733",
+    "nombre": "Bad Boy Extreme 100Ml Edp Spray",
+    "precio": 1959.0,
+    "url": "https://amoramarket.com.mx/catalog/product/view/id/531862/s/bad8-boy-extreme-100ml-edp-spray-html/category/112/",
     "estado": "IN STOCK"
   },
   {
@@ -8208,7 +8208,7 @@
     "nombre": "Set Animale 3Pzs",
     "precio": 569.0,
     "url": "https://amoramarket.com.mx/set-animale-3pzs.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "65159919",
@@ -8218,17 +8218,10 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "65201412",
+    "sku": "65180223",
     "nombre": "Set Antonio Banderas The Icon 2Pzs",
-    "precio": 429.0,
-    "url": "https://amoramarket.com.mx/set-2-antonio-banderas-the-icon-2pzs-html.html",
-    "estado": "IN STOCK"
-  },
-  {
-    "sku": "65201414",
-    "nombre": "Set Antonio Banderas The Icon 2Pzs",
-    "precio": 429.0,
-    "url": "https://amoramarket.com.mx/set-2-antonio-banderas-the-icon-2pzs.html",
+    "precio": 419.0,
+    "url": "https://amoramarket.com.mx/set2-antonio-banderas-the-icon-2pzs-html.html",
     "estado": "IN STOCK"
   },
   {
@@ -8246,10 +8239,17 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "65180223",
+    "sku": "65201412",
     "nombre": "Set Antonio Banderas The Icon 2Pzs",
-    "precio": 419.0,
-    "url": "https://amoramarket.com.mx/set2-antonio-banderas-the-icon-2pzs-html.html",
+    "precio": 429.0,
+    "url": "https://amoramarket.com.mx/set-2-antonio-banderas-the-icon-2pzs-html.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "65201414",
+    "nombre": "Set Antonio Banderas The Icon 2Pzs",
+    "precio": 429.0,
+    "url": "https://amoramarket.com.mx/set-2-antonio-banderas-the-icon-2pzs.html",
     "estado": "IN STOCK"
   },
   {
@@ -8428,13 +8428,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "65200797",
-    "nombre": "Set Benetton United Dreams Forever Green Man 2Pzs 100Ml Edt Spray/ 10Ml Edt Spray",
-    "precio": 449.0,
-    "url": "https://amoramarket.com.mx/set-benetton-united-dreams-forever-green-man-2pzs-100ml-edt-spray-10ml-edt-spray.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "65214016",
     "nombre": "Set Benetton United Dreams Love Yourself + Body Lotion",
     "precio": 539.0,
@@ -8554,13 +8547,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "18802",
-    "nombre": "Set Burberry Hero 2Pzs",
-    "precio": 1819.0,
-    "url": "https://amoramarket.com.mx/set-burberry-hero-2pzs.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "I0042607",
     "nombre": "Set Bvlgari Man Terrae Essence 2Pzs",
     "precio": 1379.0,
@@ -8579,7 +8565,7 @@
     "nombre": "Set Carlo Corinto 315 4pzs 100ml Edt Spray/ Jabon 150g/ After Shave 120ml/ Shower Gel 120ml.",
     "precio": 479.0,
     "url": "https://amoramarket.com.mx/set-carlo-corinto-315-4pzs-100ml-edt-spray-jabon-150g-after-shave-120ml-shower-gel-120ml.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "2009574",
@@ -8757,13 +8743,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "96216",
-    "nombre": "Set Dkny Energizing 2Pzs",
-    "precio": 739.0,
-    "url": "https://amoramarket.com.mx/set-dkny-energizing-2pzs-1-html.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "A0136291",
     "nombre": "Set Elizabeth Arden Red Door 3Pzs",
     "precio": 689.0,
@@ -8855,17 +8834,17 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "33049",
-    "nombre": "Set Guess 1981 Los Angeles For Men 3Pzs",
-    "precio": 479.0,
-    "url": "https://amoramarket.com.mx/set-guess-1981-los-angeles-for-men-3pzs.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "34970",
     "nombre": "Set Guess 1981 Los Angeles For Men 3Pzs",
     "precio": 429.0,
     "url": "https://amoramarket.com.mx/set-guess-1981-los-angeles-for-men-3pzs-3-html.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "33049",
+    "nombre": "Set Guess 1981 Los Angeles For Men 3Pzs",
+    "precio": 479.0,
+    "url": "https://amoramarket.com.mx/set-guess-1981-los-angeles-for-men-3pzs.html",
     "estado": "IN STOCK"
   },
   {
@@ -9044,24 +9023,10 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "65225139",
-    "nombre": "Set Jean Paul Gaultier Le Male 3Pzs",
-    "precio": 1599.0,
-    "url": "https://amoramarket.com.mx/set-jean-paul-gaultier-le-male-3pzs-3-html.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "65225157",
     "nombre": "Set Jean Paul Gaultier Scandal 3Pzs",
     "precio": 1859.0,
     "url": "https://amoramarket.com.mx/set-jean-paul-gaultier-scandal-3pzs-1-html.html",
-    "estado": "IN STOCK"
-  },
-  {
-    "sku": "65225154",
-    "nombre": "Set Jean Paul Gaultier Scandal 3Pzs",
-    "precio": 2089.0,
-    "url": "https://amoramarket.com.mx/set-jean-paul-gaultier-scandal-3pzs-4-html.html",
     "estado": "IN STOCK"
   },
   {
@@ -9111,13 +9076,6 @@
     "nombre": "Set Loewe Solo Ella 3Pzs",
     "precio": 1959.0,
     "url": "https://amoramarket.com.mx/set-loewe-solo-ella-3pzs.html",
-    "estado": "IN STOCK"
-  },
-  {
-    "sku": "LW86141",
-    "nombre": "Set Loewe Solo Ella 3Pzs 100Ml Edp Spray/ 10Ml Edp Spray/ Solo Ella Elixir 10Ml Edp Spray",
-    "precio": 2059.0,
-    "url": "https://amoramarket.com.mx/set-loewe-solo-ella-3pzs-100ml-edp-spray-10ml-edp-spray-solo-ella-elixir-10ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -9212,17 +9170,17 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "OFS5848",
-    "nombre": "Set Orientica Luxury Collection Amber Rouge 4Pzs",
-    "precio": 1549.0,
-    "url": "https://amoramarket.com.mx/catalog/product/view/id/531831/s/set8-orientica-luxury-collection-amber-rouge-4pzs-html/category/112/",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "OFS5829",
     "nombre": "Set Orientica Luxury Collection Amber Rouge 4Pzs",
     "precio": 1569.0,
     "url": "https://amoramarket.com.mx/set-orientica-luxury-collection-amber-rouge-4pzs.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "OFS5848",
+    "nombre": "Set Orientica Luxury Collection Amber Rouge 4Pzs",
+    "precio": 1549.0,
+    "url": "https://amoramarket.com.mx/catalog/product/view/id/531831/s/set8-orientica-luxury-collection-amber-rouge-4pzs-html/category/112/",
     "estado": "IN STOCK"
   },
   {
@@ -9240,17 +9198,17 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "OFS5831",
-    "nombre": "Set Orientica Luxury Collection Royal Amber 4Pzs",
-    "precio": 1549.0,
-    "url": "https://amoramarket.com.mx/set3-orientica-luxury-collection-royal-amber-4pzs-html.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "OFS5850",
     "nombre": "Set Orientica Luxury Collection Royal Amber 4Pzs",
     "precio": 1609.0,
     "url": "https://amoramarket.com.mx/set-orientica-luxury-collection-royal-amber-4pzs-1-html.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "OFS5831",
+    "nombre": "Set Orientica Luxury Collection Royal Amber 4Pzs",
+    "precio": 1549.0,
+    "url": "https://amoramarket.com.mx/set3-orientica-luxury-collection-royal-amber-4pzs-html.html",
     "estado": "IN STOCK"
   },
   {
@@ -9268,13 +9226,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "OFS5833",
-    "nombre": "Set Orientica Luxury Collection Velvet Gold 4Pzs",
-    "precio": 1589.0,
-    "url": "https://amoramarket.com.mx/set-orientica-luxury-collection-velvet-gold-4pzs-4-html.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "OFS5852",
     "nombre": "Set Orientica Luxury Collection Velvet Gold 4Pzs",
     "precio": 1589.0,
@@ -9282,10 +9233,10 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "11415",
-    "nombre": "Set Paris Hilton 4Pzs",
-    "precio": 749.0,
-    "url": "https://amoramarket.com.mx/set-2-paris-hilton-4pzs-html.html",
+    "sku": "OFS5833",
+    "nombre": "Set Orientica Luxury Collection Velvet Gold 4Pzs",
+    "precio": 1589.0,
+    "url": "https://amoramarket.com.mx/set-orientica-luxury-collection-velvet-gold-4pzs-4-html.html",
     "estado": "IN STOCK"
   },
   {
@@ -9293,6 +9244,13 @@
     "nombre": "Set Paris Hilton 4Pzs",
     "precio": 749.0,
     "url": "https://amoramarket.com.mx/catalog/product/view/id/531815/s/set9-paris-hilton-4pzs-html/category/112/",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "11415",
+    "nombre": "Set Paris Hilton 4Pzs",
+    "precio": 749.0,
+    "url": "https://amoramarket.com.mx/set-2-paris-hilton-4pzs-html.html",
     "estado": "IN STOCK"
   },
   {
@@ -9338,13 +9296,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "2004400",
-    "nombre": "Set Paris Hilton Rose Rush 4Pzs",
-    "precio": 749.0,
-    "url": "https://amoramarket.com.mx/set-paris-hilton-rose-rush-4pzs-1-html.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "2003400",
     "nombre": "Set Paris Hilton Ruby Rush 4Pzs",
     "precio": 729.0,
@@ -9370,7 +9321,7 @@
     "nombre": "Set Perry Ellis 18 Orchid 4Pzs",
     "precio": 589.0,
     "url": "https://amoramarket.com.mx/set-perry-ellis-18-orchid-4pzs.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "4361890",
@@ -9447,7 +9398,7 @@
     "nombre": "Set Pure Blue 4Pzs",
     "precio": 559.0,
     "url": "https://amoramarket.com.mx/set-pure-blue-4pzs.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "2840309",
@@ -9594,14 +9545,14 @@
     "nombre": "Set United Dreams Live Free 2Pzs",
     "precio": 539.0,
     "url": "https://amoramarket.com.mx/set-united-dreams-live-free-2pzs.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "65225678",
     "nombre": "Set Very Good Girl 3Pzs",
     "precio": 2379.0,
     "url": "https://amoramarket.com.mx/set-very-good-girl-3pzs-1-html.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "LE2101",
@@ -10378,7 +10329,7 @@
     "nombre": "Victoria'S Secret Aqua Kiss 250Ml Body Mist Spray",
     "precio": 269.0,
     "url": "https://amoramarket.com.mx/victoria2-s-secret-aqua-kiss-250ml-body-mist-spray-html.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "30664441",
