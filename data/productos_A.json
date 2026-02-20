@@ -833,13 +833,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "AHP1349",
-    "nombre": "Al Haramain Azlan Oud Bleu 100Ml Edp Spray",
-    "precio": 999.0,
-    "url": "https://amoramarket.com.mx/al-haramain-azlan-oud-bleu-100ml-edp-spray.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "AHP1343",
     "nombre": "Al Haramain Black Musk 100Ml Edp Spray",
     "precio": 979.0,
@@ -1159,7 +1152,7 @@
     "nombre": "Ariana Grande Moonlight Body Mist 236 Ml.",
     "precio": 159.0,
     "url": "https://amoramarket.com.mx/ariana-grande-moonlight-body-mist-236-ml.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "ARG2LB162BM",
@@ -4057,7 +4050,7 @@
     "nombre": "Ferrioni Green For Her 100Ml Edt Refill",
     "precio": 99.0,
     "url": "https://amoramarket.com.mx/ferrioni-green-for-her-100ml-edt-refill.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "1320045035",
@@ -5765,7 +5758,7 @@
     "nombre": "Lattafa Eclaire 100Ml Edp Spray",
     "precio": 469.0,
     "url": "https://amoramarket.com.mx/lattafa-eclaire-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "06902",
@@ -6801,13 +6794,6 @@
     "nombre": "Orientica Azure Fantasy 80Ml Extracto De Perfume Spray",
     "precio": 1409.0,
     "url": "https://amoramarket.com.mx/orientica-azure-fantasy-80ml-extracto-de-perfume-spray.html",
-    "estado": "IN STOCK"
-  },
-  {
-    "sku": "OFS5764",
-    "nombre": "Orientica Cuir 90Ml Edp Spray",
-    "precio": 1009.0,
-    "url": "https://amoramarket.com.mx/orientica-cuir-90ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -8488,7 +8474,7 @@
     "nombre": "Set Carlo Corinto Classic 3Pzs",
     "precio": 479.0,
     "url": "https://amoramarket.com.mx/set-carlo-corinto-classic-3pzs.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "2048410",
