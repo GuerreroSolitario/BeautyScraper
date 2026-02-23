@@ -3598,17 +3598,17 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "F069024009",
-    "nombre": "Dune 100 Ml Edt Spray.",
-    "precio": 2099.0,
-    "url": "https://amoramarket.com.mx/dune-100-ml-edt-spray-1.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "F006924009",
     "nombre": "Dune 100 Ml Edt Spray.",
     "precio": 2309.0,
     "url": "https://amoramarket.com.mx/dune-100-ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "F069024009",
+    "nombre": "Dune 100 Ml Edt Spray.",
+    "precio": 2099.0,
+    "url": "https://amoramarket.com.mx/dune-100-ml-edt-spray-1.html",
     "estado": "IN STOCK"
   },
   {
@@ -8397,7 +8397,7 @@
     "nombre": "Set Bharara Double Bleu 4Pzs",
     "precio": 1209.0,
     "url": "https://amoramarket.com.mx/set-bharara-double-bleu-4pzs.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "R062561",
