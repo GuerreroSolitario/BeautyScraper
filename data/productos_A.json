@@ -8512,18 +8512,18 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "65180236",
-    "nombre": "Set Her Secret Temptation 2Pzs",
-    "precio": 339.0,
-    "url": "https://amoramarket.com.mx/set-her-secret-temptation-2pzs-1.html",
-    "estado": "OUT OF STOCK"
-  },
-  {
     "sku": "65183673",
     "nombre": "Set Her Secret Temptation 2Pzs",
     "precio": 339.0,
     "url": "https://amoramarket.com.mx/set2-her-secret-temptation-2pzs-html.html",
     "estado": "IN STOCK"
+  },
+  {
+    "sku": "65180236",
+    "nombre": "Set Her Secret Temptation 2Pzs",
+    "precio": 339.0,
+    "url": "https://amoramarket.com.mx/set-her-secret-temptation-2pzs-1.html",
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "65147348",
