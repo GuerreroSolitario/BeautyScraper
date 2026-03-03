@@ -4697,6 +4697,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "65132208",
+    "nombre": "Jean Paul Gaultier Le Beau 125ml Edt Spray.",
+    "precio": 1649.0,
+    "url": "https://amoramarket.com.mx/jean-paul-gaultier-le-beau-125ml-edt-spray.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
     "sku": "65189084",
     "nombre": "Jean Paul Gaultier Le Male Elixir Parfum 125Ml Edp Spray",
     "precio": 1869.0,
@@ -6587,6 +6594,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "NPM2600PV",
+    "nombre": "Parfums De Marly Haltane 125Ml Edp Spray",
+    "precio": 5339.0,
+    "url": "https://amoramarket.com.mx/parfums-de-marly-haltane-125ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "NPM0014PV",
     "nombre": "Parfums De Marly Valaya 75Ml Edp Spray",
     "precio": 4649.0,
@@ -8117,7 +8131,7 @@
     "nombre": "Set Orientica Luxury Collection Royal Bleu 4Pzs",
     "precio": 1589.0,
     "url": "https://amoramarket.com.mx/set-orientica-luxury-collection-royal-bleu-4pzs.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "OFS5852",
@@ -8271,7 +8285,7 @@
     "nombre": "Set Reserve Women 3Pzs",
     "precio": 469.0,
     "url": "https://amoramarket.com.mx/set-reserve-women-3pzs.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "58359",
@@ -8293,6 +8307,13 @@
     "precio": 309.0,
     "url": "https://amoramarket.com.mx/set2-shakira-rock-2pzs-html.html",
     "estado": "IN STOCK"
+  },
+  {
+    "sku": "65191421",
+    "nombre": "Set Sisterland Pink Raspberry 2Pzs",
+    "precio": 469.0,
+    "url": "https://amoramarket.com.mx/set-sisterland-pink-raspberry-2pzs.html",
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "65191425",
