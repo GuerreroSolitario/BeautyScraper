@@ -7623,13 +7623,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "R062561",
-    "nombre": "Set Bharara Scarlet 5Pzs",
-    "precio": 1299.0,
-    "url": "https://amoramarket.com.mx/set-bharara-scarlet-5pzs.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "65131430",
     "nombre": "Set Black Seduction 2pzs 100ml Edt Spray/ Desodorante 150ml Spray.",
     "precio": 379.0,
@@ -8099,20 +8092,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "OFS5880",
-    "nombre": "Set Orientica Luxury Collection Amber Noir 4Pzs",
-    "precio": 1609.0,
-    "url": "https://amoramarket.com.mx/set-orientica-luxury-collection-amber-noir-4pzs.html",
-    "estado": "IN STOCK"
-  },
-  {
-    "sku": "OFS5829",
-    "nombre": "Set Orientica Luxury Collection Amber Rouge 4Pzs",
-    "precio": 1569.0,
-    "url": "https://amoramarket.com.mx/set-orientica-luxury-collection-amber-rouge-4pzs.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "OFS5814",
     "nombre": "Set Orientica Luxury Collection Oud Saffron 4Pzs",
     "precio": 1609.0,
@@ -8134,18 +8113,18 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "OFS5851",
-    "nombre": "Set Orientica Luxury Collection Royal Bleu 4Pzs",
-    "precio": 1589.0,
-    "url": "https://amoramarket.com.mx/set-orientica-luxury-collection-royal-bleu-4pzs.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "OFS5832",
     "nombre": "Set Orientica Luxury Collection Royal Bleu 4Pzs",
     "precio": 1589.0,
     "url": "https://amoramarket.com.mx/set3-orientica-luxury-collection-royal-bleu-4pzs-html.html",
     "estado": "IN STOCK"
+  },
+  {
+    "sku": "OFS5851",
+    "nombre": "Set Orientica Luxury Collection Royal Bleu 4Pzs",
+    "precio": 1589.0,
+    "url": "https://amoramarket.com.mx/set-orientica-luxury-collection-royal-bleu-4pzs.html",
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "OFS5852",
