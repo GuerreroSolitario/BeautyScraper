@@ -6587,13 +6587,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "NPM2600PV",
-    "nombre": "Parfums De Marly Haltane 125Ml Edp Spray",
-    "precio": 5339.0,
-    "url": "https://amoramarket.com.mx/parfums-de-marly-haltane-125ml-edp-spray.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "NPM0014PV",
     "nombre": "Parfums De Marly Valaya 75Ml Edp Spray",
     "precio": 4649.0,
@@ -7102,7 +7095,7 @@
     "nombre": "Ramon Monegal Flamenco 100Ml Edp Spray",
     "precio": 5089.0,
     "url": "https://amoramarket.com.mx/ramon-monegal-flamenco-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "FS331002",
