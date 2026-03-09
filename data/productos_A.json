@@ -1824,7 +1824,7 @@
     "nombre": "Bharara Rohit Noir 100Ml Edp Spray",
     "precio": 649.0,
     "url": "https://amoramarket.com.mx/bharara-rohit-noir-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "R240706",
@@ -5394,7 +5394,7 @@
     "nombre": "Lattafa Asad Elixir 100Ml Edp Spray",
     "precio": 599.0,
     "url": "https://amoramarket.com.mx/lattafa-asad-elixir-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "45635",
@@ -5877,7 +5877,7 @@
     "nombre": "Miss Dior 150Ml Edp Spray",
     "precio": 3269.0,
     "url": "https://amoramarket.com.mx/miss-dior-150ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "C099600486",
@@ -7630,17 +7630,17 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "65191079",
-    "nombre": "Set Agatha Look 2Pzs",
-    "precio": 339.0,
-    "url": "https://amoramarket.com.mx/set2-agatha-look-2pzs-html.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "65201435",
     "nombre": "Set Agatha Look 2Pzs",
     "precio": 339.0,
     "url": "https://amoramarket.com.mx/set-agatha-look-2pzs-1-html.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "65191079",
+    "nombre": "Set Agatha Look 2Pzs",
+    "precio": 339.0,
+    "url": "https://amoramarket.com.mx/set2-agatha-look-2pzs-html.html",
     "estado": "IN STOCK"
   },
   {
