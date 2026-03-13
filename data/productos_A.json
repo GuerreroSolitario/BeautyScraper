@@ -1852,7 +1852,7 @@
     "nombre": "Big Pony Blue 1 100 Ml Edt Spray",
     "precio": 399.0,
     "url": "https://amoramarket.com.mx/big-pony-blue-1-100-ml-edt-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "SO1410",
@@ -5310,7 +5310,7 @@
     "nombre": "Lattafa Asad Elixir 100Ml Edp Spray",
     "precio": 599.0,
     "url": "https://amoramarket.com.mx/lattafa-asad-elixir-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "45635",
@@ -7567,13 +7567,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "65183674",
-    "nombre": "Set Antonio Banderas The Icon 2Pzs",
-    "precio": 379.0,
-    "url": "https://amoramarket.com.mx/set-antonio-banderas-the-icon-2pzs.html",
-    "estado": "OUT OF STOCK"
-  },
-  {
     "sku": "65180223",
     "nombre": "Set Antonio Banderas The Icon 2Pzs",
     "precio": 379.0,
@@ -7586,6 +7579,13 @@
     "precio": 409.0,
     "url": "https://amoramarket.com.mx/set-2-antonio-banderas-the-icon-2pzs.html",
     "estado": "IN STOCK"
+  },
+  {
+    "sku": "65183674",
+    "nombre": "Set Antonio Banderas The Icon 2Pzs",
+    "precio": 379.0,
+    "url": "https://amoramarket.com.mx/set-antonio-banderas-the-icon-2pzs.html",
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "ARGLP245BGSW",
@@ -7665,18 +7665,18 @@
     "estado": "OUT OF STOCK"
   },
   {
-    "sku": "65191694",
-    "nombre": "Set Benetton Colors Rose 2Pzs",
-    "precio": 429.0,
-    "url": "https://amoramarket.com.mx/set2-benetton-colors-rose-2pzs-html.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "65214018",
     "nombre": "Set Benetton Colors Rose 2Pzs",
     "precio": 429.0,
     "url": "https://amoramarket.com.mx/set-benetton-colors-rose-2pzs-1-html.html",
     "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "65191694",
+    "nombre": "Set Benetton Colors Rose 2Pzs",
+    "precio": 429.0,
+    "url": "https://amoramarket.com.mx/set2-benetton-colors-rose-2pzs-html.html",
+    "estado": "IN STOCK"
   },
   {
     "sku": "85200787",
