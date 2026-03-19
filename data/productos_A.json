@@ -312,7 +312,7 @@
     "nombre": "ACQUA DI GIO PROFONDO PARFUM 200ML",
     "precio": 3239.0,
     "url": "https://amoramarket.com.mx/acqua-di-gio-profondo-parfum-200ml.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "LE395553",
@@ -8463,18 +8463,18 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "4399890",
-    "nombre": "Set Perry Ellis 18 4Pzs",
-    "precio": 539.0,
-    "url": "https://amoramarket.com.mx/set-perry-ellis-18-4pzs-1-html.html",
-    "estado": "OUT OF STOCK"
-  },
-  {
     "sku": "5406390",
     "nombre": "Set Perry Ellis 18 4Pzs",
     "precio": 579.0,
     "url": "https://amoramarket.com.mx/set-perry-ellis-18-4pzs-5-html.html",
     "estado": "IN STOCK"
+  },
+  {
+    "sku": "4399890",
+    "nombre": "Set Perry Ellis 18 4Pzs",
+    "precio": 539.0,
+    "url": "https://amoramarket.com.mx/set-perry-ellis-18-4pzs-1-html.html",
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "4361890",
