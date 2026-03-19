@@ -3546,7 +3546,7 @@
     "nombre": "Lattafa Yara Candy 100Ml Edp Spray",
     "precio": 369.0,
     "url": "https://amoramarket.com.mx/lattafa-yara-candy-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "59942",
@@ -5406,23 +5406,44 @@
   {
     "sku": "T65200352",
     "nombre": "TESTER BANDERAS HER SECRET ABSOLU 80ML EDP SPRAY",
-    "precio": 9999.0,
+    "precio": 9998.0,
     "url": "https://amoramarket.com.mx/tester-banderas-her-secret-absolu-80ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "T65213558",
+    "nombre": "TESTER BANDERAS HER SECRET PINK ABSOLU 80ML EDP SPRAY",
+    "precio": 9998.0,
+    "url": "https://amoramarket.com.mx/tester-banderas-her-secret-pink-absolu-80ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "T65115508",
+    "nombre": "TESTER BANDERAS HER SECRET TEMPTATION 80ML EDT SPRAY",
+    "precio": 9998.0,
+    "url": "https://amoramarket.com.mx/tester-banderas-her-secret-temptation-80ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "T65101608",
+    "nombre": "TESTER BANDERAS KING OF SEDUCTION ABSOLUTE 100ML EDT SPRAY",
+    "precio": 9998.0,
+    "url": "https://amoramarket.com.mx/tester-banderas-king-of-seduction-absolute-100ml-edt-spray.html",
+    "estado": "IN STOCK"
   },
   {
     "sku": "T65213508",
     "nombre": "TESTER BANDERAS THE ICON SUPREME 100ML EDP SPRAY",
-    "precio": 9999.0,
+    "precio": 9998.0,
     "url": "https://amoramarket.com.mx/tester-banderas-the-icon-supreme-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "T65217537",
     "nombre": "TESTER THE ICON SUPREME 100ML EDP SPRAY",
-    "precio": 9999.0,
+    "precio": 9998.0,
     "url": "https://amoramarket.com.mx/tester-the-icon-supreme-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "65090293",
