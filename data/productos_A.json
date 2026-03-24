@@ -3987,21 +3987,21 @@
     "nombre": "FIFA CANADÁ 100ML EDP SPRAY",
     "precio": 2149.0,
     "url": "https://amoramarket.com.mx/fifa-canada-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "20260224",
     "nombre": "FIFA MÉXICO 2026 100ML EDP SPRAY",
     "precio": 2149.0,
     "url": "https://amoramarket.com.mx/fifa-mexico-2026-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "20260223",
     "nombre": "FIFA USA 100ML EDP SPRAY",
     "precio": 2149.0,
     "url": "https://amoramarket.com.mx/fifa-usa-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "LE961600",
@@ -7665,13 +7665,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "65183674",
-    "nombre": "Set Antonio Banderas The Icon 2Pzs",
-    "precio": 379.0,
-    "url": "https://amoramarket.com.mx/set-antonio-banderas-the-icon-2pzs.html",
-    "estado": "OUT OF STOCK"
-  },
-  {
     "sku": "65180223",
     "nombre": "Set Antonio Banderas The Icon 2Pzs",
     "precio": 379.0,
@@ -7683,6 +7676,13 @@
     "nombre": "Set Antonio Banderas The Icon 2Pzs",
     "precio": 409.0,
     "url": "https://amoramarket.com.mx/set-2-antonio-banderas-the-icon-2pzs.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "65183674",
+    "nombre": "Set Antonio Banderas The Icon 2Pzs",
+    "precio": 379.0,
+    "url": "https://amoramarket.com.mx/set-antonio-banderas-the-icon-2pzs.html",
     "estado": "OUT OF STOCK"
   },
   {
@@ -8596,17 +8596,17 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "65183668",
-    "nombre": "Set The Secret 2Pzs",
-    "precio": 379.0,
-    "url": "https://amoramarket.com.mx/set-the-secret-2pzs.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "65180232",
     "nombre": "Set The Secret 2Pzs",
     "precio": 379.0,
     "url": "https://amoramarket.com.mx/set-the-secret-2pzs-1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "65183668",
+    "nombre": "Set The Secret 2Pzs",
+    "precio": 379.0,
+    "url": "https://amoramarket.com.mx/set-the-secret-2pzs.html",
     "estado": "IN STOCK"
   },
   {
