@@ -420,24 +420,10 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "ADP081662",
-    "nombre": "Acqua Di Parma Blu Mediterraneo Bergamotto Di Calabria 100Ml Edt Spray",
-    "precio": 1929.0,
-    "url": "https://amoramarket.com.mx/acqua-di-parma-blu-mediterraneo-bergamotto-di-calabria-100ml-edt-spray.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "81021",
     "nombre": "Acqua Di Parma Camelia 100ml Edp Spray.",
     "precio": 2759.0,
     "url": "https://amoramarket.com.mx/acqua-di-parma-camelia-100ml-edp-spray.html",
-    "estado": "IN STOCK"
-  },
-  {
-    "sku": "81022",
-    "nombre": "Acqua Di Parma Camelia 180ml Edp Spray.",
-    "precio": 3209.0,
-    "url": "https://amoramarket.com.mx/acqua-di-parma-camelia-180ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -476,13 +462,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "81032",
-    "nombre": "Acqua Di Parma Sakura 180ml Edp Spray.",
-    "precio": 3579.0,
-    "url": "https://amoramarket.com.mx/acqua-di-parma-sakura-180ml-edp-spray.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "81091",
     "nombre": "Acqua Di Parma Sandalo 100 Ml Edp Spray.",
     "precio": 3059.0,
@@ -508,13 +487,6 @@
     "nombre": "Acqua Di Parma Yuzu 100ml Edp Spray.",
     "precio": 2889.0,
     "url": "https://amoramarket.com.mx/acqua-di-parma-yuzu-100ml-edp-spray.html",
-    "estado": "IN STOCK"
-  },
-  {
-    "sku": "ADP081337",
-    "nombre": "Acqua Di Parma Zafferano 100Ml Edp Spray",
-    "precio": 3259.0,
-    "url": "https://amoramarket.com.mx/acqua-di-parma-zafferano-100ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -4648,13 +4620,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "021766",
-    "nombre": "Imperiale 100 Ml Edc Spray.",
-    "precio": 909.0,
-    "url": "https://amoramarket.com.mx/imperiale-100-ml-edc-spray.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "NINBG0001SP",
     "nombre": "Initio Oud For Greatness 90Ml Edp Spray",
     "precio": 5239.0,
@@ -5891,13 +5856,6 @@
     "nombre": "Miracle 100 Ml Edp Spray.",
     "precio": 1569.0,
     "url": "https://amoramarket.com.mx/miracle-100-ml-edp-spray.html",
-    "estado": "IN STOCK"
-  },
-  {
-    "sku": "C099600764",
-    "nombre": "Miss Dior 100Ml Edp Spray",
-    "precio": 2919.0,
-    "url": "https://amoramarket.com.mx/miss-dior-100ml-edp-spray-html.html",
     "estado": "IN STOCK"
   },
   {
@@ -7460,13 +7418,6 @@
     "precio": 2049.0,
     "url": "https://amoramarket.com.mx/sauvage-100ml-edt-spray.html",
     "estado": "OUT OF STOCK"
-  },
-  {
-    "sku": "F068528009",
-    "nombre": "Sauvage 200 Ml Edt Spray.",
-    "precio": 2899.0,
-    "url": "https://amoramarket.com.mx/sauvage-200-ml-edt-spray.html",
-    "estado": "IN STOCK"
   },
   {
     "sku": "C099800171",
