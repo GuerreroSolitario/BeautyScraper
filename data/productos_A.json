@@ -5744,7 +5744,7 @@
     "nombre": "Lattafa Victoria 100Ml Edp Spray",
     "precio": 509.0,
     "url": "https://amoramarket.com.mx/lattafa-victoria-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "59290",
@@ -8995,6 +8995,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "T65132647",
+    "nombre": "TESTER CAROLINA HERRERA BAD BOY 100ML EDT SPRAY",
+    "precio": 2800.0,
+    "url": "https://amoramarket.com.mx/tester-carolina-herrera-bad-boy-100ml-edt-spray.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
     "sku": "T1G90310000",
     "nombre": "TESTER DOLCE & GABBANA Q 100ML EDP SPRAY",
     "precio": 3090.0,
@@ -9020,6 +9027,34 @@
     "nombre": "TESTER MOSCHINO FRESH COUTURE 100ML SPRAY",
     "precio": 2300.0,
     "url": "https://amoramarket.com.mx/tester-moschino-fresh-couture-100ml-spray.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "T6S32",
+    "nombre": "TESTER MOSCHINO FRESH GOLD 100ML EDP SPRAY",
+    "precio": 2550.0,
+    "url": "https://amoramarket.com.mx/tester-moschino-fresh-gold-100ml-edp-spray.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "T6V32",
+    "nombre": "TESTER MOSCHINO TOY 2 100ML EDP SPRAY",
+    "precio": 2650.0,
+    "url": "https://amoramarket.com.mx/tester-moschino-toy-2-100ml-edp-spray.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "T6X32",
+    "nombre": "TESTER MOSCHINO TOY 2 BUBBLEGUM 100ML EDT SPRAY",
+    "precio": 2450.0,
+    "url": "https://amoramarket.com.mx/tester-moschino-toy-2-bubblegum-100ml-edt-spray.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "T1260006Y32",
+    "nombre": "TESTER MOSCHINO TOY 2 PEARL 100ML EDP SPRAY",
+    "precio": 2650.0,
+    "url": "https://amoramarket.com.mx/tester-moschino-toy-2-pearl-100ml-edp-spray.html",
     "estado": "OUT OF STOCK"
   },
   {
