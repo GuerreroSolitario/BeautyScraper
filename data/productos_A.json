@@ -8995,6 +8995,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "T1G90310000",
+    "nombre": "TESTER DOLCE & GABBANA Q 100ML EDP SPRAY",
+    "precio": 3090.0,
+    "url": "https://amoramarket.com.mx/tester-dolce-gabbana-q-100ml-edp-spray.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
     "sku": "T500010",
     "nombre": "TESTER EAU FRAICHE 100ML EDT SPRAY",
     "precio": 799.0,
@@ -9002,10 +9009,38 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "T1C7L025A01",
+    "nombre": "TESTER MONTBLANC EXPLORER PLATINUM 100ML EDP SPRAY",
+    "precio": 2650.0,
+    "url": "https://amoramarket.com.mx/tester-montblanc-explorer-platinum-100ml-edp-spray.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "T6R32",
+    "nombre": "TESTER MOSCHINO FRESH COUTURE 100ML SPRAY",
+    "precio": 2300.0,
+    "url": "https://amoramarket.com.mx/tester-moschino-fresh-couture-100ml-spray.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "T65158923",
+    "nombre": "TESTER PHANTOM 100ML EDT SPRAY",
+    "precio": 2770.0,
+    "url": "https://amoramarket.com.mx/tester-phantom-100ml-edt-spray.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
     "sku": "T65217537",
     "nombre": "TESTER THE ICON SUPREME 100ML EDP SPRAY",
     "precio": 9998.0,
     "url": "https://amoramarket.com.mx/tester-the-icon-supreme-100ml-edp-spray.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "T67013",
+    "nombre": "TESTER TOMMY GIRL 100ML EDT SPRAY SIN CELOFAN",
+    "precio": 1450.0,
+    "url": "https://amoramarket.com.mx/tester-tommy-girl-100ml-edt-spray-sin-celofan.html",
     "estado": "OUT OF STOCK"
   },
   {
