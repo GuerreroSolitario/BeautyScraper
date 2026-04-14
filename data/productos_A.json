@@ -5618,7 +5618,7 @@
     "nombre": "La Bomba 80Ml Edp Spray",
     "precio": 2099.0,
     "url": "https://amoramarket.com.mx/la-bomba-80ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "0114814",
@@ -8687,17 +8687,17 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "AO288378",
-    "nombre": "Set Elizabeth Taylor White Diamonds 4Pzs",
-    "precio": 799.0,
-    "url": "https://amoramarket.com.mx/set-elizabeth-taylor-white-diamonds-4pzs-html.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "2252404",
     "nombre": "Set Elizabeth Taylor White Diamonds 4Pzs",
     "precio": 739.0,
     "url": "https://amoramarket.com.mx/set-elizabeth-taylor-white-diamonds-4pzs.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "AO288378",
+    "nombre": "Set Elizabeth Taylor White Diamonds 4Pzs",
+    "precio": 799.0,
+    "url": "https://amoramarket.com.mx/set-elizabeth-taylor-white-diamonds-4pzs-html.html",
     "estado": "IN STOCK"
   },
   {
