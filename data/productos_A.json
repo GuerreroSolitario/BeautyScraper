@@ -2531,7 +2531,7 @@
     "nombre": "Ck In 2u 100ml Edt Spray.",
     "precio": 359.0,
     "url": "https://amoramarket.com.mx/ck-in-2u-100ml-edt-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "1027043",
@@ -8533,17 +8533,17 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "2002400",
-    "nombre": "Set Paris Hilton 4Pzs",
-    "precio": 729.0,
-    "url": "https://amoramarket.com.mx/catalog/product/view/id/531815/s/set9-paris-hilton-4pzs-html/category/112/",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "11415",
     "nombre": "Set Paris Hilton 4Pzs",
     "precio": 729.0,
     "url": "https://amoramarket.com.mx/set-2-paris-hilton-4pzs-html.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "2002400",
+    "nombre": "Set Paris Hilton 4Pzs",
+    "precio": 729.0,
+    "url": "https://amoramarket.com.mx/catalog/product/view/id/531815/s/set9-paris-hilton-4pzs-html/category/112/",
     "estado": "IN STOCK"
   },
   {
