@@ -592,7 +592,7 @@
     "nombre": "Acqua Essenziale 100 Ml Edt Spray.",
     "precio": 519.0,
     "url": "https://amoramarket.com.mx/acqua-essenziale-100-ml-edt-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "30252",
@@ -1509,7 +1509,7 @@
     "nombre": "Azzaro Wanted By Night 100 Ml Edp Spray.",
     "precio": 699.0,
     "url": "https://amoramarket.com.mx/azzaro-wanted-by-night-100-ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "65206727",
@@ -7802,7 +7802,7 @@
     "nombre": "Prada Paradoxe Intense 90Ml Edp Spray",
     "precio": 2469.0,
     "url": "https://amoramarket.com.mx/prada-paradoxe-intense-90ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "LE469700",
