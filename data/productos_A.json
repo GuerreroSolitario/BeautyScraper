@@ -2125,7 +2125,7 @@
     "nombre": "Burberry London 100ml Edp Spray.",
     "precio": 589.0,
     "url": "https://amoramarket.com.mx/burberry-london-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "74868",
@@ -2321,7 +2321,7 @@
     "nombre": "Carner Marbella 100Ml Edp Spray",
     "precio": 2599.0,
     "url": "https://amoramarket.com.mx/carner-marbella-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "36303",
@@ -8122,9 +8122,16 @@
   {
     "sku": "T920037",
     "nombre": "TESTER AZZARO CHROME 100ML EDT SPRAY",
-    "precio": 1700.0,
+    "precio": 499.0,
     "url": "https://amoramarket.com.mx/tester-azzaro-chrome-100ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "T80012833",
+    "nombre": "TESTER AZZARO WANTED 100ML EDT SPRAY",
+    "precio": 499.0,
+    "url": "https://amoramarket.com.mx/tester-azzaro-wanted-100ml-edt-spray.html",
+    "estado": "IN STOCK"
   },
   {
     "sku": "T65132647",
@@ -8150,16 +8157,16 @@
   {
     "sku": "TK010372",
     "nombre": "TESTER KENZO FLOWER L'ABSOLUE 50ML EDP SPRAY",
-    "precio": 3230.0,
+    "precio": 499.0,
     "url": "https://amoramarket.com.mx/tester-kenzo-flower-l-absolue-50ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "TK500102",
     "nombre": "TESTER KENZO FLOWER POPPY BOUQUET 50ML EDP SPRAY",
-    "precio": 2990.0,
+    "precio": 499.0,
     "url": "https://amoramarket.com.mx/tester-kenzo-flower-poppy-bouquet-50ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "T6R32",
@@ -8171,44 +8178,44 @@
   {
     "sku": "T6S32",
     "nombre": "TESTER MOSCHINO FRESH GOLD 100ML EDP SPRAY",
-    "precio": 549.0,
+    "precio": 499.0,
     "url": "https://amoramarket.com.mx/tester-moschino-fresh-gold-100ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
     "sku": "T65158923",
     "nombre": "TESTER PHANTOM 100ML EDT SPRAY",
-    "precio": 2770.0,
+    "precio": 1499.0,
     "url": "https://amoramarket.com.mx/tester-phantom-100ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "T65215598",
     "nombre": "TESTER PHANTOM ELIXIR 100ML EDP SPRAY",
-    "precio": 3280.0,
+    "precio": 1599.0,
     "url": "https://amoramarket.com.mx/tester-phantom-elixir-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "T67013",
     "nombre": "TESTER TOMMY GIRL 100ML EDT SPRAY SIN CELOFAN",
-    "precio": 1450.0,
+    "precio": 399.0,
     "url": "https://amoramarket.com.mx/tester-tommy-girl-100ml-edt-spray-sin-celofan.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "T1300721010",
     "nombre": "TESTER VERSACE DYLAN BLUE 100ML EDT SPRAY",
-    "precio": 2540.0,
+    "precio": 999.0,
     "url": "https://amoramarket.com.mx/tester-versace-dylan-blue-100ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "T520032",
     "nombre": "TESTER VERSACE YELLOW DIAMOND 90ML EDT SPRAY",
-    "precio": 2900.0,
+    "precio": 999.0,
     "url": "https://amoramarket.com.mx/tester-versace-yellow-diamond-90ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "65179535",
