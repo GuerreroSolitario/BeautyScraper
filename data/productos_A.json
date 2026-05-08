@@ -3945,7 +3945,7 @@
     "nombre": "Guess Amore Capri 100Ml Edt Spray",
     "precio": 269.0,
     "url": "https://amoramarket.com.mx/guess-amore-capri-100ml-edt-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "32358A",
@@ -6535,7 +6535,7 @@
     "nombre": "Parfums De Marly Greenley 125Ml Edp Spray",
     "precio": 4789.0,
     "url": "https://amoramarket.com.mx/parfums-de-marly-greenley-125ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "NPM2600PV",
@@ -7721,17 +7721,17 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "65180244",
-    "nombre": "Set Her Golden Secret 2Pzs",
-    "precio": 339.0,
-    "url": "https://amoramarket.com.mx/set-her-golden-secret-2pzs-1.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "65190832",
     "nombre": "Set Her Golden Secret 2Pzs",
     "precio": 339.0,
     "url": "https://amoramarket.com.mx/set2-her-golden-secret-2pzs-html.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "65180244",
+    "nombre": "Set Her Golden Secret 2Pzs",
+    "precio": 339.0,
+    "url": "https://amoramarket.com.mx/set-her-golden-secret-2pzs-1.html",
     "estado": "IN STOCK"
   },
   {
