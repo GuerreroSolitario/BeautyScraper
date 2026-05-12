@@ -168,17 +168,17 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "3552",
-    "nombre": "360º 100 Ml Edt Spray.",
-    "precio": 369.0,
-    "url": "https://amoramarket.com.mx/360-100-ml-edt-spray.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "2552",
     "nombre": "360º 100 Ml Edt Spray.",
     "precio": 459.0,
     "url": "https://amoramarket.com.mx/360-100-ml-edt-spray-1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "3552",
+    "nombre": "360º 100 Ml Edt Spray.",
+    "precio": 369.0,
+    "url": "https://amoramarket.com.mx/360-100-ml-edt-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -5002,7 +5002,7 @@
     "nombre": "Lacoste Blanc Eau Fraiche 100Ml Edt Spray",
     "precio": 659.0,
     "url": "https://amoramarket.com.mx/lacoste-blanc-eau-fraiche-100ml-edt-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "LS-000002",
@@ -8173,7 +8173,7 @@
     "nombre": "TESTER MOSCHINO FRESH COUTURE 100ML SPRAY",
     "precio": 549.0,
     "url": "https://amoramarket.com.mx/tester-moschino-fresh-couture-100ml-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "T6S32",
