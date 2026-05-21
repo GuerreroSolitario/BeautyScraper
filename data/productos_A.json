@@ -455,13 +455,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "ADPO82822",
-    "nombre": "Acqua Di Parma Club 180Ml Edc Spray",
-    "precio": 2779.0,
-    "url": "https://amoramarket.com.mx/acqua-di-parma-club-180ml-edc-spray.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "ADP082806",
     "nombre": "Acqua Di Parma Colonia 100Ml Edc Spray",
     "precio": 2009.0,
@@ -3273,7 +3266,7 @@
     "nombre": "Dkny Be Tempted 100 Ml Edp Spray.",
     "precio": 479.0,
     "url": "https://amoramarket.com.mx/dkny-be-tempted-100-ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "95058",
@@ -3519,13 +3512,6 @@
     "precio": 1449.0,
     "url": "https://amoramarket.com.mx/emporio-armani-stronger-with-you-intensely-100-ml-edp-spray.html",
     "estado": "OUT OF STOCK"
-  },
-  {
-    "sku": "LF026800",
-    "nombre": "Emporio Armani Stronger With You Parfum 100Ml Edp Spray",
-    "precio": 1519.0,
-    "url": "https://amoramarket.com.mx/emporio-armani-stronger-with-you-parfum-100ml-edp-spray.html",
-    "estado": "IN STOCK"
   },
   {
     "sku": "10840",
@@ -6853,13 +6839,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "NPM2900PV",
-    "nombre": "Parfums De Marly Althair 125Ml Edp Spray",
-    "precio": 5999.0,
-    "url": "https://amoramarket.com.mx/parfums-de-marly-althair-125ml-edp-spray.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "PM0005PV",
     "nombre": "Parfums De Marly Athalia 75Ml Edp Spray",
     "precio": 4109.0,
@@ -8306,7 +8285,7 @@
     "nombre": "Set Mini Cuba Prestige 4Pzs",
     "precio": 189.0,
     "url": "https://amoramarket.com.mx/set-mini-cuba-prestige-4pzs.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "221113",
