@@ -746,7 +746,7 @@
     "nombre": "Afnan 9Pm Night Out 100Ml Extracto De Perfume Spray",
     "precio": 369.0,
     "url": "https://amoramarket.com.mx/afnan-9pm-night-out-100ml-extracto-de-perfume-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "10726",
@@ -1152,7 +1152,7 @@
     "nombre": "Ariana Grande Cloud 100ml Edp Spray.",
     "precio": 939.0,
     "url": "https://amoramarket.com.mx/ariana-grande-cloud-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "ARG4LR21134CU",
@@ -4197,7 +4197,7 @@
     "nombre": "Givenchy Blue Label 100Ml Edt Spray",
     "precio": 579.0,
     "url": "https://amoramarket.com.mx/catalog/product/view/id/531802/s/givenchy-blue-label-100ml-edt-spray/category/112/",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "P046140",
@@ -5156,7 +5156,7 @@
     "nombre": "Jean Paul Gaultier la Belle 100ml Edp Spray.",
     "precio": 1879.0,
     "url": "https://amoramarket.com.mx/jean-paul-gaultier-la-belle-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "65214911",
@@ -6906,7 +6906,7 @@
     "nombre": "Oscar De La Renta Extraordinary 90 Ml Edp Spray",
     "precio": 299.0,
     "url": "https://amoramarket.com.mx/oscar-de-la-renta-extraordinary-90-ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "56201",
@@ -7158,7 +7158,7 @@
     "nombre": "Parfums De Marly Althair 125Ml Edp Spray",
     "precio": 4379.0,
     "url": "https://amoramarket.com.mx/parfums-de-marly-althair-125ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "PM0005PV",
@@ -7221,7 +7221,7 @@
     "nombre": "Parfums De Marly Greenley 125Ml Edp Spray",
     "precio": 4379.0,
     "url": "https://amoramarket.com.mx/parfums-de-marly-greenley-125ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "NPM2600PV",
@@ -7298,13 +7298,20 @@
     "nombre": "Parfums De Marly Safanad 75 Ml Edp Spray",
     "precio": 3669.0,
     "url": "https://amoramarket.com.mx/parfums-de-marly-safanad-75-ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "PM2200PV",
     "nombre": "Parfums De Marly Sedley 125Ml Edp Spray",
     "precio": 4379.0,
     "url": "https://amoramarket.com.mx/parfums-de-marly-sedley-125ml-edp-spray.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "NPM0014PV",
+    "nombre": "Parfums De Marly Valaya 75Ml Edp Spray",
+    "precio": 4429.0,
+    "url": "https://amoramarket.com.mx/parfums-de-marly-valaya-75ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -8264,7 +8271,7 @@
     "nombre": "Set Benetton United Dreams Together For Him 3Pzs",
     "precio": 399.0,
     "url": "https://amoramarket.com.mx/set-benetton-united-dreams-together-for-him-3pzs.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "65200790",
@@ -8481,7 +8488,7 @@
     "nombre": "Set Ferrioni Deep Blue 4Pzs",
     "precio": 409.0,
     "url": "https://amoramarket.com.mx/set-ferrioni-deep-blue-4pzs.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "2034404",
