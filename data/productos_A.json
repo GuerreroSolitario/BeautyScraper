@@ -3413,7 +3413,7 @@
     "nombre": "Daisy 100ml Edt Spray.",
     "precio": 1089.0,
     "url": "https://amoramarket.com.mx/daisy-100ml-edt-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "F15045",
@@ -7368,7 +7368,7 @@
     "nombre": "Parfums De Marly Althair 125Ml Edp Spray",
     "precio": 4379.0,
     "url": "https://amoramarket.com.mx/parfums-de-marly-althair-125ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "PM0005PV",
@@ -7466,7 +7466,7 @@
     "nombre": "Parfums De Marly Meliora 75Ml Edp Spray",
     "precio": 4029.0,
     "url": "https://amoramarket.com.mx/parfums-de-marly-meliora-75ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "NPM1200PV",
@@ -10350,6 +10350,13 @@
     "nombre": "Viktor & Rolf Spicebomb Dark Leather 150Ml Edp Spray",
     "precio": 2219.0,
     "url": "https://amoramarket.com.mx/viktor-rolf-spicebomb-dark-leather-150ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "3885888",
+    "nombre": "Viktor & Rolf Spicebomb Dark Leather 90Ml Edp Spray",
+    "precio": 2069.0,
+    "url": "https://amoramarket.com.mx/viktor-rolf-spicebomb-dark-leather-90ml-edp-spray-2-html.html",
     "estado": "IN STOCK"
   },
   {
