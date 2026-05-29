@@ -294,6 +294,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "16930",
+    "nombre": "Abercrombie & Fitch Away Tonight Man 100Ml Edt Spray",
+    "precio": 499.0,
+    "url": "https://amoramarket.com.mx/abercrombie-fitch-away-tonight-man-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "16990",
     "nombre": "Abercrombie & Fitch Away Tonight Woman 100Ml Edp Spray",
     "precio": 399.0,
@@ -396,7 +403,7 @@
     "nombre": "ACQUA DI GIO 200ML EDP",
     "precio": 2309.0,
     "url": "https://amoramarket.com.mx/acqua-di-gio-200ml-edp.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "LE309600",
@@ -434,13 +441,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "ADP081663",
-    "nombre": "Acqua Di Parma Blu Mediterraneo Bergamotto Di Calabria 180Ml Edt Spray",
-    "precio": 2489.0,
-    "url": "https://amoramarket.com.mx/acqua-di-parma-blu-mediterraneo-bergamotto-di-calabria-180ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
-  },
-  {
     "sku": "ADP081630",
     "nombre": "Acqua Di Parma Blu Mediterraneo Mandarino Di Sicilia 100Ml Edt Spray",
     "precio": 1889.0,
@@ -467,13 +467,6 @@
     "precio": 2999.0,
     "url": "https://amoramarket.com.mx/acqua-di-parma-camelia-180ml-edp-spray.html",
     "estado": "IN STOCK"
-  },
-  {
-    "sku": "ADPO82822",
-    "nombre": "Acqua Di Parma Club 180Ml Edc Spray",
-    "precio": 2489.0,
-    "url": "https://amoramarket.com.mx/acqua-di-parma-club-180ml-edc-spray.html",
-    "estado": "OUT OF STOCK"
   },
   {
     "sku": "ADP082806",
@@ -574,6 +567,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "ADP081337",
+    "nombre": "Acqua Di Parma Zafferano 100Ml Edp Spray",
+    "precio": 3259.0,
+    "url": "https://amoramarket.com.mx/acqua-di-parma-zafferano-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "32252",
     "nombre": "Acqua Essenziale 100 Ml Edt Spray.",
     "precio": 479.0,
@@ -641,7 +641,7 @@
     "nombre": "Adolfo Dominguez Ambar Negro 120Ml Edp Spray",
     "precio": 579.0,
     "url": "https://amoramarket.com.mx/adolfo-dominguez-ambar-negro-120ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "65198833",
@@ -662,6 +662,13 @@
     "nombre": "Adolfo Dominguez Fresia Solar 120Ml Edp Spray",
     "precio": 589.0,
     "url": "https://amoramarket.com.mx/catalog/product/view/id/531847/s/adolfo-dominguez-fresia-solar-120ml-edp-spray/category/112/",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "65181600",
+    "nombre": "Adolfo Dominguez Iris Vainilla 120Ml Edp Spray",
+    "precio": 579.0,
+    "url": "https://amoramarket.com.mx/adolfo-dominguez-iris-vainilla-120ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -970,6 +977,13 @@
     "nombre": "Alien 90 Ml Edp Spray.",
     "precio": 769.0,
     "url": "https://amoramarket.com.mx/alien-90-ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "56040",
+    "nombre": "Alien Goddess 90Ml Edp Spray Rechargeable",
+    "precio": 1259.0,
+    "url": "https://amoramarket.com.mx/alien-goddess-90ml-edp-spray-rechargeable.html",
     "estado": "IN STOCK"
   },
   {
@@ -1320,7 +1334,7 @@
     "nombre": "Armaf Club De Nuit Untold 105Ml Edp Spray",
     "precio": 659.0,
     "url": "https://amoramarket.com.mx/catalog/product/view/id/531030/s/armaf-club-de-nuit-untold-105ml-edp-spray/category/112/",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "10264",
@@ -1341,13 +1355,20 @@
     "nombre": "Armaf Club De Nuit Woman 105Ml Edp Spray",
     "precio": 439.0,
     "url": "https://amoramarket.com.mx/armaf-club-de-nuit-woman-105ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "15108",
     "nombre": "Armaf Club De Nuit Woman 200Ml Edp Spray",
     "precio": 709.0,
     "url": "https://amoramarket.com.mx/armaf-club-de-nuit-woman-200ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "80094",
+    "nombre": "Armaf Island Bliss 100Ml Edp Spray",
+    "precio": 839.0,
+    "url": "https://amoramarket.com.mx/armaf-island-bliss-100ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -1390,7 +1411,7 @@
     "nombre": "Armaf Odyssey Homme White Edition 100Ml Edp Spray",
     "precio": 339.0,
     "url": "https://amoramarket.com.mx/armaf-odyssey-homme-white-edition-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "16393",
@@ -1411,7 +1432,7 @@
     "nombre": "Armaf Odyssey Mega 200Ml Edp Spray",
     "precio": 589.0,
     "url": "https://amoramarket.com.mx/armaf-odyssey-mega-200ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "80578",
@@ -1432,6 +1453,13 @@
     "nombre": "Armaf Odyssey Wild One Gold Edition 100Ml Edp Spray",
     "precio": 339.0,
     "url": "https://amoramarket.com.mx/armaf-odyssey-wild-one-gold-edition-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "13829",
+    "nombre": "Armaf Tres Nuit Lyric Pour Homme 100Ml Edp Spray",
+    "precio": 399.0,
+    "url": "https://amoramarket.com.mx/armaf-tres-nuit-lyric-pour-homme-100ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -1642,7 +1670,7 @@
     "nombre": "Bad Boy Extreme 100Ml Edp Spray",
     "precio": 1729.0,
     "url": "https://amoramarket.com.mx/catalog/product/view/id/531862/s/bad8-boy-extreme-100ml-edp-spray-html/category/112/",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "65187320",
@@ -1691,7 +1719,7 @@
     "nombre": "Banderas Her Secret Pink Absolu 80Ml Edp Spray",
     "precio": 409.0,
     "url": "https://amoramarket.com.mx/banderas-her-secret-pink-absolu-80ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "65197622",
@@ -2069,7 +2097,7 @@
     "nombre": "Bharara Noble 100Ml Edp Spray",
     "precio": 269.0,
     "url": "https://amoramarket.com.mx/bharara-noble-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "R947064",
@@ -2352,6 +2380,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "82424829",
+    "nombre": "Boss Bottled Nigth 200ml Edt Spray.",
+    "precio": 1099.0,
+    "url": "https://amoramarket.com.mx/boss-bottled-nigth-200ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "17309",
     "nombre": "Boss Bottled Parfum 100Ml Edp Spray",
     "precio": 849.0,
@@ -2370,6 +2405,13 @@
     "nombre": "Boss Bottled Tonic 100Ml Edt Spray",
     "precio": 919.0,
     "url": "https://amoramarket.com.mx/boss-bottled-tonic-100ml-edt-spray-2-html.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "766775",
+    "nombre": "Boss Bottled Unlimited 100 Ml Edt Spray.",
+    "precio": 839.0,
+    "url": "https://amoramarket.com.mx/boss-bottled-unlimited-100-ml-edt-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -2457,6 +2499,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "90566",
+    "nombre": "Burberry 100ml Edp Spray.",
+    "precio": 989.0,
+    "url": "https://amoramarket.com.mx/burberry-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "90575",
     "nombre": "Burberry 100ml Edt Spray.",
     "precio": 799.0,
@@ -2464,10 +2513,24 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "SBH29004",
+    "nombre": "Burberry Brit 100 Ml Edp Spray.",
+    "precio": 659.0,
+    "url": "https://amoramarket.com.mx/burberry-brit-100-ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "90515",
     "nombre": "Burberry Brit Men 100Ml Edt Spray",
     "precio": 629.0,
     "url": "https://amoramarket.com.mx/burberry2-brit-men-100ml-edt-spray-html.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "SBY004A01",
+    "nombre": "Burberry Brit Sheer 100 Ml Edt Spray.",
+    "precio": 989.0,
+    "url": "https://amoramarket.com.mx/burberry-brit-sheer-100-ml-edt-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -2524,6 +2587,13 @@
     "nombre": "Bvlgari Splendida Patchouli Tentation 100Ml Edp Spray",
     "precio": 1159.0,
     "url": "https://amoramarket.com.mx/bvlgari-splendida-patchouli-tentation-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "29666",
+    "nombre": "Calvin Klein Defy 100ML EDT Spray",
+    "precio": 609.0,
+    "url": "https://amoramarket.com.mx/calvin-klein-defy-100ml-edt-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -2853,7 +2923,7 @@
     "nombre": "Ck In 2u 100ml Edt Spray.",
     "precio": 329.0,
     "url": "https://amoramarket.com.mx/ck-in-2u-100ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "1027043",
@@ -2987,6 +3057,13 @@
     "precio": 729.0,
     "url": "https://amoramarket.com.mx/coach-open-road-100ml-edt-spray.html",
     "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "CC007A01",
+    "nombre": "Coach Platinum 100ml Edp Spray.",
+    "precio": 539.0,
+    "url": "https://amoramarket.com.mx/coach-platinum-100ml-edp-spray.html",
+    "estado": "IN STOCK"
   },
   {
     "sku": "1A7L016A01",
@@ -3416,13 +3493,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "M091200",
-    "nombre": "Daisy 100ml Edt Spray.",
-    "precio": 1089.0,
-    "url": "https://amoramarket.com.mx/daisy-100ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
-  },
-  {
     "sku": "F15045",
     "nombre": "Dark Seduction 100 Ml Edt Spray.",
     "precio": 209.0,
@@ -3581,7 +3651,7 @@
     "nombre": "Dolce & Gabbana Devotion 100Ml Edp Spray",
     "precio": 929.0,
     "url": "https://amoramarket.com.mx/dolce-gabbana-devotion-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "1G91DV1C00",
@@ -3665,14 +3735,14 @@
     "nombre": "Dolce & Gabbana Light Blue 200 Ml Edt Spray",
     "precio": 1239.0,
     "url": "https://amoramarket.com.mx/dolce-gabbana-light-blue-200-ml-edt-spray-3-html.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "P1LB1C01",
     "nombre": "Dolce & Gabbana Light Blue Homme 100Ml Edt Spray",
     "precio": 879.0,
     "url": "https://amoramarket.com.mx/dolce-gabbana-light-blue-homme-100ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "1G90310000",
@@ -3752,6 +3822,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "F069024009",
+    "nombre": "Dune 100 Ml Edt Spray.",
+    "precio": 2169.0,
+    "url": "https://amoramarket.com.mx/dune-100-ml-edt-spray-1.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "500010",
     "nombre": "Eau Fraiche 100 Ml Edt Spray.",
     "precio": 1059.0,
@@ -3826,7 +3903,7 @@
     "nombre": "Emporio Armani Stronger With You Parfum 100Ml Edp Spray",
     "precio": 1489.0,
     "url": "https://amoramarket.com.mx/emporio-armani-stronger-with-you-parfum-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "10840",
@@ -3864,6 +3941,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "100522",
+    "nombre": "Eternity 200 Ml Edt Spray.",
+    "precio": 829.0,
+    "url": "https://amoramarket.com.mx/eternity-200-ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "229040",
     "nombre": "Eternity Air 100 Ml Edp Spray.",
     "precio": 419.0,
@@ -3882,7 +3966,7 @@
     "nombre": "Eternity Aqua 100 Ml Edt Spray",
     "precio": 499.0,
     "url": "https://amoramarket.com.mx/eternity-aqua-100-ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "1023040",
@@ -3931,7 +4015,7 @@
     "nombre": "Fakhar Lattafa 100 Ml Edp Spray",
     "precio": 369.0,
     "url": "https://amoramarket.com.mx/fakhar2-lattafa-100-ml-edp-spray-html.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "65170086",
@@ -4193,6 +4277,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "1320031034",
+    "nombre": "Ferrioni Neon Ooh Boy! 100 Ml Edt Spray",
+    "precio": 379.0,
+    "url": "https://amoramarket.com.mx/ferrioni-neon-ooh-boy-100-ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "1320030034",
     "nombre": "Ferrioni Neon Ooh Girl 100 Ml Edt Spray",
     "precio": 359.0,
@@ -4288,7 +4379,7 @@
     "nombre": "Givenchy Ange Ou Demon Le Secret 100Ml Edp Spray",
     "precio": 1509.0,
     "url": "https://amoramarket.com.mx/givenchy-ange-ou-demon-le-secret-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "P000292",
@@ -4312,6 +4403,20 @@
     "estado": "OUT OF STOCK"
   },
   {
+    "sku": "P000377",
+    "nombre": "Givenchy Gentleman Only 100Ml Edt Spray",
+    "precio": 659.0,
+    "url": "https://amoramarket.com.mx/givenchy-gentleman-only-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "P000290",
+    "nombre": "Givenchy Homme 100Ml Edt Spray",
+    "precio": 759.0,
+    "url": "https://amoramarket.com.mx/givenchy-homme-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "P001023",
     "nombre": "Givenchy Hot Couture 100Ml Edp Spray",
     "precio": 979.0,
@@ -4324,6 +4429,13 @@
     "precio": 1399.0,
     "url": "https://amoramarket.com.mx/givenchy-l-interdit-80ml-edt-spray.html",
     "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "P000348",
+    "nombre": "Givenchy Very Irresistible 80Ml Edp Spray",
+    "precio": 1609.0,
+    "url": "https://amoramarket.com.mx/givenchy-very-irresistible-80ml-edp-spray.html",
+    "estado": "IN STOCK"
   },
   {
     "sku": "P000350",
@@ -4470,7 +4582,7 @@
     "nombre": "Guess 1981 Indigo 100ml Edt Spray.",
     "precio": 339.0,
     "url": "https://amoramarket.com.mx/guess-1981-indigo-100ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "32198",
@@ -4526,7 +4638,7 @@
     "nombre": "Guess Amore Capri 100Ml Edt Spray",
     "precio": 269.0,
     "url": "https://amoramarket.com.mx/guess-amore-capri-100ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "32360A",
@@ -4638,6 +4750,13 @@
     "nombre": "Guess Girl Belle 100 Ml Edp Spray.",
     "precio": 339.0,
     "url": "https://amoramarket.com.mx/guess-girl-belle-100-ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "32144B",
+    "nombre": "Guess Girl Belle 250Ml Body Mist Spray",
+    "precio": 119.0,
+    "url": "https://amoramarket.com.mx/guess-girl-belle-250ml-body-mist-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -4953,7 +5072,7 @@
     "nombre": "Halloween Man Mystery 125Ml Edp Spray",
     "precio": 639.0,
     "url": "https://amoramarket.com.mx/halloween-man-mystery-125ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "50251",
@@ -5054,6 +5173,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "80957439",
+    "nombre": "Hugo Energise 75 Ml Edt Spray",
+    "precio": 459.0,
+    "url": "https://amoramarket.com.mx/hugo-energise-75-ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "62338",
     "nombre": "Hugo Extreme 75Ml Edp Spray",
     "precio": 659.0,
@@ -5093,6 +5219,13 @@
     "nombre": "Hugo Xx 100 Ml Edt Spray.",
     "precio": 409.0,
     "url": "https://amoramarket.com.mx/hugo-xx-100-ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "81078847",
+    "nombre": "Hugo Xy 100 Ml Edt Spray.",
+    "precio": 579.0,
+    "url": "https://amoramarket.com.mx/hugo-xy-100-ml-edt-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -5443,7 +5576,7 @@
     "nombre": "Jimmy Choo I Want Choo 100Ml Edp Spray",
     "precio": 1279.0,
     "url": "https://amoramarket.com.mx/jimmy-choo-i-want-choo-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "1B5L020A01",
@@ -5464,6 +5597,13 @@
     "nombre": "Jimmy Choo Man Intense 100Ml Edt Spray",
     "precio": 1029.0,
     "url": "https://amoramarket.com.mx/catalog/product/view/id/531032/s/jimmy-choo-man-intense-100ml-edt-spray/category/112/",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "1B5L021A01",
+    "nombre": "Jimmy Choo Rose Passion 100Ml Edp Spray",
+    "precio": 869.0,
+    "url": "https://amoramarket.com.mx/jimmy-choo-rose-passion-100ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -5856,7 +5996,7 @@
     "nombre": "Lancome La Vie Est Belle L' Elixir 100Ml Edp Spray",
     "precio": 1919.0,
     "url": "https://amoramarket.com.mx/lancome-la-vie-est-belle-l-elixir-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "LE692200",
@@ -5878,6 +6018,13 @@
     "precio": 379.0,
     "url": "https://amoramarket.com.mx/lapidus-woman-100-ml-edt-spray.html",
     "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "73810",
+    "nombre": "Lattafa Afaq 100Ml Edp Spray",
+    "precio": 459.0,
+    "url": "https://amoramarket.com.mx/lattafa-afaq-100ml-edp-spray.html",
+    "estado": "IN STOCK"
   },
   {
     "sku": "73825",
@@ -6213,14 +6360,14 @@
     "nombre": "Lattafa Yara 100Ml Edp Spray",
     "precio": 369.0,
     "url": "https://amoramarket.com.mx/lattafa-yara-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "73494",
     "nombre": "Lattafa Yara 200Ml Body Spray",
     "precio": 149.0,
     "url": "https://amoramarket.com.mx/lattafa-yara-200ml-body-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "73521",
@@ -6395,7 +6542,7 @@
     "nombre": "Matiere Crystal Saffron 100Ml Edp Spray",
     "precio": 3209.0,
     "url": "https://amoramarket.com.mx/matiere-crystal-saffron-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "141580",
@@ -6444,7 +6591,7 @@
     "nombre": "Miss Dior 100Ml Edp Spray",
     "precio": 2629.0,
     "url": "https://amoramarket.com.mx/miss-dior-100ml-edp-spray-html.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "C099600794",
@@ -6496,13 +6643,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "1G2L04A105",
-    "nombre": "Moncler La Cordee 100Ml Edp Spray",
-    "precio": 1699.0,
-    "url": "https://amoramarket.com.mx/moncler-la-cordee-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
-  },
-  {
     "sku": "1G2L002A02",
     "nombre": "Moncler Pour Femme 60Ml Edp Spray",
     "precio": 1029.0,
@@ -6535,7 +6675,7 @@
     "nombre": "Montblanc Emblem 100 Ml Edt Spray.",
     "precio": 559.0,
     "url": "https://amoramarket.com.mx/mont-blanc-emblem-100-ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "MB017A01",
@@ -7007,13 +7147,6 @@
     "estado": "OUT OF STOCK"
   },
   {
-    "sku": "OFS5765",
-    "nombre": "Orientica Fleur 90Ml Edp Spray",
-    "precio": 999.0,
-    "url": "https://amoramarket.com.mx/orientica-fleur-90ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
-  },
-  {
     "sku": "OFS5770",
     "nombre": "Orientica Le Motif Imperial Gold 85Ml Edp Spray",
     "precio": 779.0,
@@ -7046,14 +7179,7 @@
     "nombre": "Orientica Luxury Collection Royal Bleu 150Ml Edp Spray",
     "precio": 1479.0,
     "url": "https://amoramarket.com.mx/orientica-luxury-collection-royal-bleu-150ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
-  },
-  {
-    "sku": "OFS5845",
-    "nombre": "Orientica Luxury Collection Velvet Gold 150Ml Edp Spray",
-    "precio": 1499.0,
-    "url": "https://amoramarket.com.mx/orientica-luxury-collection-velvet-gold-150ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "OFS5737",
@@ -7462,13 +7588,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "NPM0001PV",
-    "nombre": "Parfums De Marly Meliora 75Ml Edp Spray",
-    "precio": 4029.0,
-    "url": "https://amoramarket.com.mx/parfums-de-marly-meliora-75ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
-  },
-  {
     "sku": "NPM1200PV",
     "nombre": "Parfums De Marly Oajan 125Ml Edp Spray",
     "precio": 4379.0,
@@ -7586,13 +7705,6 @@
     "precio": 139.0,
     "url": "https://amoramarket.com.mx/paris-hilton-gold-rush-236ml-body-mist-spray.html",
     "estado": "IN STOCK"
-  },
-  {
-    "sku": "1441348531",
-    "nombre": "Paris Hilton Gold Rush Man 100 Ml Edt Spray.",
-    "precio": 409.0,
-    "url": "https://amoramarket.com.mx/paris-hilton-gold-rush-man-100-ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
   },
   {
     "sku": "1446089405",
@@ -7847,13 +7959,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "3702292",
-    "nombre": "Polo Blue 125 Ml Edt Spray.",
-    "precio": 1329.0,
-    "url": "https://amoramarket.com.mx/polo-blue-125-ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
-  },
-  {
     "sku": "S4418800",
     "nombre": "Polo Cologne Intense 118Ml Edc Soray",
     "precio": 1239.0,
@@ -7872,6 +7977,13 @@
     "nombre": "Polo Deep Blue 125ML EDP Spray",
     "precio": 1569.0,
     "url": "https://amoramarket.com.mx/polo-deep-blue-125ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "S3831701",
+    "nombre": "Polo Deep Blue 200Ml Edp Spray",
+    "precio": 2099.0,
+    "url": "https://amoramarket.com.mx/polo-deep-blue-200ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -7907,7 +8019,7 @@
     "nombre": "Polo Red Parfum 125Ml Edp Spray",
     "precio": 1659.0,
     "url": "https://amoramarket.com.mx/catalog/product/view/id/531850/s/polo-red-parfum-125ml-edp-spray/category/112/",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "S5538800",
@@ -7956,7 +8068,7 @@
     "nombre": "Prada Luna Rosa Ocean Le Parfum Refillable 150Ml Edp Spray",
     "precio": 2669.0,
     "url": "https://amoramarket.com.mx/prada-luna-rosa-ocean-le-parfum-refillable-150ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "LD792601",
@@ -8043,6 +8155,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "S5484700",
+    "nombre": "RALPH'S CLUB ELIXIR 75ML EDP SPRAY",
+    "precio": 2119.0,
+    "url": "https://amoramarket.com.mx/ralph-s-club-elixir-75ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "S4891000",
     "nombre": "RALPH'S CLUB PARFUM 150ML EDP",
     "precio": 2009.0,
@@ -8054,14 +8173,14 @@
     "nombre": "Rasasi Hawas Black 100Ml Edp Spray",
     "precio": 599.0,
     "url": "https://amoramarket.com.mx/rasasi-hawas-black-100ml-edp-spray-2-html.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "5584420",
     "nombre": "Red Door 100 Ml Edt Spray.",
     "precio": 579.0,
     "url": "https://amoramarket.com.mx/red-door-100-ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "27075",
@@ -8120,6 +8239,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "67745",
+    "nombre": "Sabrina Carpenter Caramel Dream 75Ml Edp Spray",
+    "precio": 559.0,
+    "url": "https://amoramarket.com.mx/sabrina-carpenter-caramel-dream-75ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "67748",
     "nombre": "Sabrina Carpenter Cherry Baby 236Ml Body Mist Spray",
     "precio": 199.0,
@@ -8134,11 +8260,18 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "67887",
+    "nombre": "Sabrina Carpenter Me Espresso 236Ml Body Mist Spray",
+    "precio": 169.0,
+    "url": "https://amoramarket.com.mx/sabrina-carpenter-me-espresso-236ml-body-mist-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "78649",
     "nombre": "Sabrina Carpenter Me Espresso 75Ml Edp Spray",
     "precio": 559.0,
     "url": "https://amoramarket.com.mx/sabrina-carpenter-me-espresso-75ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "36756",
@@ -8180,6 +8313,13 @@
     "nombre": "Salvatore Ferragamo Uomo Signature Pour Homme 100Ml Edp Spray",
     "precio": 479.0,
     "url": "https://amoramarket.com.mx/salvatore-ferragamo-uomo-signature-pour-homme-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "G014316",
+    "nombre": "Samsara 75Ml Edp Spray",
+    "precio": 1199.0,
+    "url": "https://amoramarket.com.mx/samsara-75ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -8316,17 +8456,45 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "65217480",
+    "nombre": "Set Adolfo Dominguez Agua Fresca 1993 2Pzs",
+    "precio": 719.0,
+    "url": "https://amoramarket.com.mx/set-adolfo-dominguez-agua-fresca-1993-2pzs.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "A10743",
+    "nombre": "Set Afnan 9Am Pour Femme 4Pzs",
+    "precio": 699.0,
+    "url": "https://amoramarket.com.mx/set-afnan-9am-pour-femme-4pzs.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "A10729",
+    "nombre": "Set Afnan 9Pm For Men 3Pzs",
+    "precio": 679.0,
+    "url": "https://amoramarket.com.mx/catalog/product/view/id/531804/s/set-afnan-9pm-for-men-3pzs/category/112/",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "A07320",
     "nombre": "Set Afnan Souvenir Floral Bouquet 3Pzs",
     "precio": 569.0,
     "url": "https://amoramarket.com.mx/set-afnan-souvenir-floral-bouquet-3pzs.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "A07426",
     "nombre": "Set Afnan Supremacy In Oud 3Pzs",
     "precio": 859.0,
     "url": "https://amoramarket.com.mx/set-afnan-supremacy-in-oud-3pzs.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "A07317",
+    "nombre": "Set Afnan Supremacy Silver 3Pzs",
+    "precio": 499.0,
+    "url": "https://amoramarket.com.mx/set-afnan-supremacy-silver-3pzs.html",
     "estado": "IN STOCK"
   },
   {
@@ -8435,6 +8603,13 @@
     "estado": "OUT OF STOCK"
   },
   {
+    "sku": "65217569",
+    "nombre": "Set Bad Boy Cobalt 3Pzs",
+    "precio": 1869.0,
+    "url": "https://amoramarket.com.mx/set-bad-boy-cobalt-3pzs-3-html.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "65217566",
     "nombre": "Set Bad Boy Elixir 2Pzs",
     "precio": 1849.0,
@@ -8463,6 +8638,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "65217528",
+    "nombre": "Set Banderas The Icon Supreme 2Pzs",
+    "precio": 429.0,
+    "url": "https://amoramarket.com.mx/set-banderas-the-icon-supreme-2pzs.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "65213593",
     "nombre": "Set Banderas The Icon Supreme 2Pzs 100Ml Edp Spray/ Desodorante 150Ml Spray",
     "precio": 399.0,
@@ -8474,7 +8656,7 @@
     "nombre": "Set Be Delicious Fresh Blossom 2Pzs",
     "precio": 399.0,
     "url": "https://amoramarket.com.mx/set-be-delicious-fresh-blossom-2pzs.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "65214017",
@@ -8621,7 +8803,7 @@
     "nombre": "Set Bharara Rome Homme 2Pzs",
     "precio": 559.0,
     "url": "https://amoramarket.com.mx/set-bharara-rome-homme-2pzs.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "R670084",
@@ -8771,6 +8953,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "22279",
+    "nombre": "Set Cuba Royal 4Pzs",
+    "precio": 279.0,
+    "url": "https://amoramarket.com.mx/set-cuba-royal-4pzs.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "22318",
     "nombre": "Set Cuba Victory 4Pzs",
     "precio": 269.0,
@@ -8813,6 +9002,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "A0135169",
+    "nombre": "Set Fantasy 3Pzs",
+    "precio": 549.0,
+    "url": "https://amoramarket.com.mx/set3-fantasy-3pzs-html.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "2018404",
     "nombre": "Set Ferrioni Deep Blue 4Pzs",
     "precio": 409.0,
@@ -8831,6 +9027,13 @@
     "nombre": "Set Ferrioni Ooh Boy! Neon Vibes 3Pzs",
     "precio": 449.0,
     "url": "https://amoramarket.com.mx/set3-ferrioni-ooh-boy-neon-vibes-3pzs-html.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "30400",
+    "nombre": "Set Ferrioni Ooh Girl! Neon Vibes 3Pzs",
+    "precio": 439.0,
+    "url": "https://amoramarket.com.mx/set-ferrioni-ooh-girl-neon-vibes-3pzs.html",
     "estado": "IN STOCK"
   },
   {
@@ -8929,6 +9132,13 @@
     "nombre": "Set Her Secret Desiree 2Pzs",
     "precio": 329.0,
     "url": "https://amoramarket.com.mx/set-her-secret-desiree-2pzs.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "65183673",
+    "nombre": "Set Her Secret Temptation 2Pzs",
+    "precio": 339.0,
+    "url": "https://amoramarket.com.mx/set2-her-secret-temptation-2pzs-html.html",
     "estado": "IN STOCK"
   },
   {
@@ -9077,6 +9287,13 @@
     "precio": 1479.0,
     "url": "https://amoramarket.com.mx/set-orientica-luxury-collection-royal-bleu-4pzs.html",
     "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "OFS5832",
+    "nombre": "Set Orientica Luxury Collection Royal Bleu 4Pzs",
+    "precio": 1549.0,
+    "url": "https://amoramarket.com.mx/set3-orientica-luxury-collection-royal-bleu-4pzs-html.html",
+    "estado": "IN STOCK"
   },
   {
     "sku": "59768",
@@ -9324,6 +9541,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "65213688",
+    "nombre": "Shakira Amarillo 80Ml Edp Spray",
+    "precio": 319.0,
+    "url": "https://amoramarket.com.mx/shakira-amarillo-80ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "65106058",
     "nombre": "Shakira Dance 80 Ml Edt Spray.",
     "precio": 289.0,
@@ -9517,7 +9741,7 @@
     "nombre": "TESTER CAROLINA HERRERA BAD BOY 100ML EDT SPRAY",
     "precio": 1199.0,
     "url": "https://amoramarket.com.mx/tester-carolina-herrera-bad-boy-100ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "T1G90310001",
@@ -9874,7 +10098,7 @@
     "nombre": "Tous Dorado 90 Ml Edp Spray.",
     "precio": 739.0,
     "url": "https://amoramarket.com.mx/tous-dorado-90-ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "781071",
@@ -10035,7 +10259,7 @@
     "nombre": "Tubbees Tres Leches 50Ml Edp Spray",
     "precio": 149.0,
     "url": "https://amoramarket.com.mx/tubbees-tres-leches-50ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "P4865",
@@ -10287,7 +10511,7 @@
     "nombre": "Victoria'S Secret Pure Seduction 250Ml Body Mist Spray",
     "precio": 249.0,
     "url": "https://amoramarket.com.mx/victoria-s-secret-pure-seduction-250ml-body-mist-spray-1-html.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "30666313",
@@ -10301,7 +10525,7 @@
     "nombre": "Victoria'S Secret Rush 250 Ml Body Mist Spray",
     "precio": 249.0,
     "url": "https://amoramarket.com.mx/victoria-s-secret-rush-250-ml-body-mist-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "30664440",
@@ -10371,6 +10595,13 @@
     "nombre": "Viktor & Rolf Spicebomb Infrared 90Ml Edp Spray",
     "precio": 1849.0,
     "url": "https://amoramarket.com.mx/viktor-rolf-spicebomb-infrared-90ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "19155",
+    "nombre": "Viktor & Rolf Spicebomb Night Vision 90Ml Edt Spray",
+    "precio": 1639.0,
+    "url": "https://amoramarket.com.mx/catalog/product/view/id/531050/s/viktor-rolf-spicebomb-night-vision-90ml-edt-spray/category/112/",
     "estado": "IN STOCK"
   },
   {
@@ -10455,7 +10686,7 @@
     "nombre": "YSL LIBRE 90ML EDP SPRAY",
     "precio": 2259.0,
     "url": "https://amoramarket.com.mx/ysl-libre-90ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "LE227401",
