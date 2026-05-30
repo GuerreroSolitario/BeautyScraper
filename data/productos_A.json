@@ -434,6 +434,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "ADP081664",
+    "nombre": "Acqua Di Parma Blu Mediterraneo Fico Di Amalfi 100Ml Edt Spray",
+    "precio": 1889.0,
+    "url": "https://amoramarket.com.mx/acqua-di-parma-blu-mediterraneo-fico-di-amalfi-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "ADP081630",
     "nombre": "Acqua Di Parma Blu Mediterraneo Mandarino Di Sicilia 100Ml Edt Spray",
     "precio": 1889.0,
@@ -672,6 +679,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "65200669",
+    "nombre": "Adolfo Dominguez Neroli 120Ml Edt Spray Caballero",
+    "precio": 519.0,
+    "url": "https://amoramarket.com.mx/adolfo-dominguez-neroli-120ml-edt-spray-caballero.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
     "sku": "65167044",
     "nombre": "Adolfo Dominguez Nude Musk 120Ml Edp Spray",
     "precio": 589.0,
@@ -760,7 +774,7 @@
     "nombre": "Afnan 9Pm Rebel 100Ml Edp Spray",
     "precio": 519.0,
     "url": "https://amoramarket.com.mx/afnan-9pm-rebel-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "10747",
@@ -1425,7 +1439,7 @@
     "nombre": "Armaf Odyssey Limoni Fresh 100Ml Edp Spray",
     "precio": 619.0,
     "url": "https://amoramarket.com.mx/armaf-odyssey-limoni-fresh-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "14937",
@@ -1986,6 +2000,13 @@
     "precio": 419.0,
     "url": "https://amoramarket.com.mx/bharara-blossom-bouquet-100ml-edp-spray.html",
     "estado": "IN STOCK"
+  },
+  {
+    "sku": "R394708",
+    "nombre": "BHARARA BULLET GUNMETAL 75ML EDP SPRAY",
+    "precio": 289.0,
+    "url": "https://amoramarket.com.mx/bharara-bullet-gunmetal-75ml-edp-spray.html",
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "R394749",
@@ -3661,6 +3682,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "52400",
+    "nombre": "DKNY BE DELICIOUS ICE POP BERRY BLISS 50ML EDP SPRAY",
+    "precio": 299.0,
+    "url": "https://amoramarket.com.mx/dkny-be-delicious-ice-pop-berry-bliss-50ml-edp-spray.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
     "sku": "52410",
     "nombre": "DKNY BE DELICIOUS ICE POP VERY CHERRY 50ML EDP SPRAY",
     "precio": 299.0,
@@ -4078,7 +4106,7 @@
     "nombre": "Fakhar Lattafa 100 Ml Edp Spray",
     "precio": 369.0,
     "url": "https://amoramarket.com.mx/fakhar2-lattafa-100-ml-edp-spray-html.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "65170086",
@@ -4449,7 +4477,7 @@
     "nombre": "Givenchy Blue Label 100Ml Edt Spray",
     "precio": 579.0,
     "url": "https://amoramarket.com.mx/catalog/product/view/id/531802/s/givenchy-blue-label-100ml-edt-spray/category/112/",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "P046140",
@@ -5219,7 +5247,7 @@
     "nombre": "Houbigant Figuier Noir 100Ml Edp Spray",
     "precio": 2989.0,
     "url": "https://amoramarket.com.mx/houbigant-figuier-noir-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "03141",
@@ -5842,7 +5870,7 @@
     "nombre": "L'Eau D'Issey Pour Homme 125Ml Edt Spray",
     "precio": 549.0,
     "url": "https://amoramarket.com.mx/l-eau-d-issey-pour-homme-125ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "K014402",
@@ -8138,7 +8166,7 @@
     "nombre": "Prada L' Homme 100ml Edt Spray.",
     "precio": 2299.0,
     "url": "https://amoramarket.com.mx/prada-l-homme-100ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "LE867900",
@@ -8820,6 +8848,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "65200795",
+    "nombre": "Set Benetton Sisterland Yellow Peony 2Pzs",
+    "precio": 469.0,
+    "url": "https://amoramarket.com.mx/set-benetton-sisterland-yellow-peony-2pzs.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
     "sku": "65200796",
     "nombre": "Set Benetton United Dreams Forever Green 2Pzs",
     "precio": 509.0,
@@ -8846,6 +8881,13 @@
     "precio": 449.0,
     "url": "https://amoramarket.com.mx/set-benetton-united-dreams-together-for-her-2pzs.html",
     "estado": "IN STOCK"
+  },
+  {
+    "sku": "65191696",
+    "nombre": "Set Benetton United Dreams Together For Him 2Pzs",
+    "precio": 429.0,
+    "url": "https://amoramarket.com.mx/set-benetton-united-dreams-together-for-him-2pzs.html",
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "65200790",
@@ -8908,7 +8950,7 @@
     "nombre": "Set Bharara Rome Homme 2Pzs",
     "precio": 539.0,
     "url": "https://amoramarket.com.mx/set-bharara-rome-homme-2pzs.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "R670084",
@@ -9112,6 +9154,13 @@
     "precio": 549.0,
     "url": "https://amoramarket.com.mx/set3-fantasy-3pzs-html.html",
     "estado": "IN STOCK"
+  },
+  {
+    "sku": "JFE26090",
+    "nombre": "SET FERRAGAMO UOMO 100ML EDT SPRAY/ SHOWER GEL 100ML/ AFTER SHAVE BALM 100ML",
+    "precio": 539.0,
+    "url": "https://amoramarket.com.mx/set-ferragamo-uomo-100ml-edt-spray-shower-gel-100ml-after-shave-balm-100ml.html",
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "JFE22091B",
@@ -10336,7 +10385,7 @@
     "nombre": "Tubbees Passion Fruit Mojito 50Ml Edp Spray",
     "precio": 149.0,
     "url": "https://amoramarket.com.mx/tubbees-passion-fruit-mojito-50ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "P5573",
@@ -10798,7 +10847,7 @@
     "nombre": "YSL LIBRE 90ML EDP SPRAY",
     "precio": 2179.0,
     "url": "https://amoramarket.com.mx/ysl-libre-90ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "LE227401",
