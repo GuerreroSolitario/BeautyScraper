@@ -4284,6 +4284,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "PAQALJA02",
+    "nombre": "FIFA MÉXICO + FIFA USA EDP 100 ML",
+    "precio": 3899.0,
+    "url": "https://amoramarket.com.mx/fifa-mexico-fifa-usa-edp-100-ml.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "20260224",
     "nombre": "FIFA MÉXICO 2026 100ML EDP SPRAY",
     "precio": 2050.0,
@@ -7112,18 +7119,186 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "10443-2",
+    "nombre": "PAQUETE CK BE 200ML EDT SPRAY 2X1",
+    "precio": 879.0,
+    "url": "https://amoramarket.com.mx/paquete-ck-be-200ml-edt-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQCAL07",
+    "nombre": "PAQUETE CK BE 200ML EDT SPRAY/CK ONE 200ML EDT SPRAY",
+    "precio": 959.0,
+    "url": "https://amoramarket.com.mx/paquete-ck-be-200ml-edt-spray-ck-one-200ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "10740-2",
+    "nombre": "PAQUETE CK ONE 100ML EDT SPRAY 2X1",
+    "precio": 849.0,
+    "url": "https://amoramarket.com.mx/paquete-ck-one-100ml-edt-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "10743X3",
+    "nombre": "PAQUETE CK ONE 200ML EDT SPRAY 3 X PRECIO ESPECIAL",
+    "precio": 1589.0,
+    "url": "https://amoramarket.com.mx/paquete.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "080038-2",
+    "nombre": "PAQUETE COOL WATER 100ML EDT SPRAY 2x1",
+    "precio": 739.0,
+    "url": "https://amoramarket.com.mx/paquete-cool-water-100ml-edt-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "080153-2",
+    "nombre": "PAQUETE COOL WATER 125ML EDT SPRAY 2X1",
+    "precio": 869.0,
+    "url": "https://amoramarket.com.mx/paquete-cool-water-125ml-edt-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "70287776-2",
+    "nombre": "PAQUETE GUESS 75ML EDP SPRAY 2X1",
+    "precio": 699.0,
+    "url": "https://amoramarket.com.mx/paquete-guess-75ml-edp-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "34201-2",
+    "nombre": "PAQUETE HALLOWEEN 100ML EDT SPRAY 2X1",
+    "precio": 1239.0,
+    "url": "https://amoramarket.com.mx/paquete-halloween-100ml-edt-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "80948321-2",
+    "nombre": "PAQUETE LACOSTE ESSENTIAL 125ML EDT SPRAY 2X1",
+    "precio": 1229.0,
+    "url": "https://amoramarket.com.mx/paquete-lacoste-essential-125ml-edt-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "508027X2",
+    "nombre": "PAQUETE NAUTICA BLUE 100ML EDT SPRAY",
+    "precio": 399.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-blue-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU05",
+    "nombre": "PAQUETE NAUTICA BLUE 100ML EDT SPRAY/NAUTICA BLUE SAIL 100ML EDT SPRAY",
+    "precio": 399.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-blue-100ml-edt-spray-nautica-blue-sail-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU02",
+    "nombre": "PAQUETE NAUTICA BLUE 100ML EDT SPRAY/NAUTICA CLASSIC 100ML EDT SPRAY",
+    "precio": 399.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-blue-100ml-edt-spray-nautica-classic-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "PAQNAU10",
     "nombre": "PAQUETE NAUTICA BLUE 100ML EDT SPRAY/NAUTICA VOYAGE 100ML EDT SPRAY",
     "precio": 399.0,
     "url": "https://amoramarket.com.mx/paquete-nautica-blue-100ml-edt-spray-nautica-voyage-100ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU15",
+    "nombre": "PAQUETE NAUTICA BLUE 100ML EDT SPRAY/NAUTICA VOYAGE N-83 100ML EDT SPRAY",
+    "precio": 399.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-blue-100ml-edt-spray-nautica-voyage-n-83-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU11",
+    "nombre": "PAQUETE NAUTICA CLASSIC 100ML EDT SPRAY/NAUTICA BLUE SAIL 100ML EDT SPRAY",
+    "precio": 399.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-classic-100ml-edt-spray-nautica-blue-sail-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU04",
+    "nombre": "PAQUETE NAUTICA CLASSIC 100ML EDT SPRAY/NAUTICA HERITAGE 100ML EDT SPRAY",
+    "precio": 399.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-classic-100ml-edt-spray-nautica-heritage-100ml-edt-spray.html",
+    "estado": "IN STOCK"
   },
   {
     "sku": "PAQNAU09",
     "nombre": "PAQUETE NAUTICA CLASSIC 100ML EDT SPRAY/NAUTICA VOYAGE 100ML EDT SPRAY",
     "precio": 399.0,
     "url": "https://amoramarket.com.mx/paquete-nautica-classic-100ml-edt-spray-nautica-voyage-100ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU14",
+    "nombre": "PAQUETE NAUTICA CLASSIC 100ML EDT SPRAY/NAUTICA VOYAGE N-83 100ML EDT SPRAY",
+    "precio": 399.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-classic-100ml-edt-spray-nautica-voyage-n-83-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU12",
+    "nombre": "PAQUETE NAUTICA VOYAGE 100ML EDT SPRAY/NAUTICA BLUE SAIL 100ML EDT SPRAY",
+    "precio": 399.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-voyage-100ml-edt-spray-nautica-blue-sail-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU03",
+    "nombre": "PAQUETE NAUTICA VOYAGE 100ML EDT SPRAY/NAUTICA VOYAGE N-83 100ML EDT SPRAY",
+    "precio": 399.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-voyage-100ml-edt-spray-nautica-voyage-n-83-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU07",
+    "nombre": "PAQUETE NAUTICA VOYAGE HERITAGE 100ML EDT SPRAY X2",
+    "precio": 399.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-voyage-heritage-100ml-edt-spray-x2.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU13",
+    "nombre": "PAQUETE NAUTICA VOYAGE SPORT 100ML EDT SPRAY/NAUTICA VOYAGE N-83 100ML EDT SPRAY",
+    "precio": 399.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-voyage-sport-100ml-edt-spray-nautica-voyage-n-83-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "38271576-2",
+    "nombre": "PAQUETE PARIS HILTON 100ML EDP SPRAY 2X1",
+    "precio": 769.0,
+    "url": "https://amoramarket.com.mx/paquete-paris-hilton-100ml-edp-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "151430376-2",
+    "nombre": "PAQUETE PARIS HILTON CAN CAN 100ML EDP SPRAY 2X1",
+    "precio": 889.0,
+    "url": "https://amoramarket.com.mx/paquete-paris-hilton-can-can-100ml-edp-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "04360076-2",
+    "nombre": "PAQUETE PERRY ELLIS 18 SENSUAL 100ML EDP SPRAY 2X1",
+    "precio": 699.0,
+    "url": "https://amoramarket.com.mx/paquete-perry-ellis-18-sensual-100ml-edp-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "6613600X2",
+    "nombre": "PAQUTE NAUTICA VOYAGE 100ML EDT SPRAY",
+    "precio": 399.0,
+    "url": "https://amoramarket.com.mx/paqute-nautica-voyage-100ml-edt-spray.html",
+    "estado": "IN STOCK"
   },
   {
     "sku": "PM0005PV",
