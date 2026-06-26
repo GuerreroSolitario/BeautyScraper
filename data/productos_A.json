@@ -2828,17 +2828,17 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "1027040",
-    "nombre": "Ck In 2u 100ml Edt Spray.",
-    "precio": 319.0,
-    "url": "https://amoramarket.com.mx/ck-in-2u-100ml-edt-spray-1.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "1025040",
     "nombre": "Ck In 2u 100ml Edt Spray.",
     "precio": 329.0,
     "url": "https://amoramarket.com.mx/ck-in-2u-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "1027040",
+    "nombre": "Ck In 2u 100ml Edt Spray.",
+    "precio": 319.0,
+    "url": "https://amoramarket.com.mx/ck-in-2u-100ml-edt-spray-1.html",
     "estado": "IN STOCK"
   },
   {
