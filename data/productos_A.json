@@ -6122,7 +6122,7 @@
     "nombre": "Lattafa Angham Second Song 100Ml Edp Spray",
     "precio": 689.0,
     "url": "https://amoramarket.com.mx/lattafa-angham-second-song-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "73541",
@@ -10052,11 +10052,18 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "T1A7L018A01",
+    "nombre": "TESTER COACH GREEN 100ML EDT SPRAY",
+    "precio": 599.0,
+    "url": "https://amoramarket.com.mx/tester-coach-green-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "TCC003A01",
     "nombre": "TESTER COACH MAN 100ML EDT SPRAY",
-    "precio": 2370.0,
+    "precio": 599.0,
     "url": "https://amoramarket.com.mx/tester-coach-man-100ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "T1G90310001",
@@ -10091,6 +10098,13 @@
     "nombre": "TESTER KENZO FLOWER POPPY BOUQUET 50ML EDP SPRAY",
     "precio": 699.0,
     "url": "https://amoramarket.com.mx/tester-kenzo-flower-poppy-bouquet-50ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "T65200303",
+    "nombre": "TESTER LADY MILLION GOLD 90ML EDP SPRAY REFILLABLE",
+    "precio": 1499.0,
+    "url": "https://amoramarket.com.mx/tester-lady-million-gold-90ml-edp-spray-refillable.html",
     "estado": "IN STOCK"
   },
   {
@@ -10136,6 +10150,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "TL8974301",
+    "nombre": "TESTER NOA 100ML EDT SPRAY",
+    "precio": 199.0,
+    "url": "https://amoramarket.com.mx/tester-noa-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "T151430376",
     "nombre": "TESTER PARIS HILTON CAN CAN 100ML EDP SPRAY",
     "precio": 9999.0,
@@ -10171,6 +10192,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "T1300512032",
+    "nombre": "TESTER VERSACE BRIGHT CRYSTAL PARFUM 90ML EDP SPRAY",
+    "precio": 799.0,
+    "url": "https://amoramarket.com.mx/tester-versace-bright-crystal-parfum-90ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "T1300721010",
     "nombre": "TESTER VERSACE DYLAN BLUE 100ML EDT SPRAY",
     "precio": 899.0,
@@ -10189,6 +10217,13 @@
     "nombre": "TESTER VERSACE DYLAN PURPLE 100ML EDP SPRAY",
     "precio": 999.0,
     "url": "https://amoramarket.com.mx/tester-versace-dylan-purple-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "T702132",
+    "nombre": "TESTER VERSACE DYLAN TURQUOISE 100ML EDT SPRAY",
+    "precio": 899.0,
+    "url": "https://amoramarket.com.mx/tester-versace-dylan-turquoise-100ml-edt-spray.html",
     "estado": "IN STOCK"
   },
   {
