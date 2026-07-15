@@ -2230,7 +2230,7 @@
     "nombre": "Bharara Noble 100Ml Edp Spray",
     "precio": 289.0,
     "url": "https://amoramarket.com.mx/bharara-noble-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "R947064",
@@ -3215,7 +3215,7 @@
   {
     "sku": "PAQSDJ01",
     "nombre": "Coleccion Sol de Janeiro Body Mist 90 ml",
-    "precio": 2339.0,
+    "precio": 2229.0,
     "url": "https://amoramarket.com.mx/coleccion-sol-de-janeiro-body-mist-90-ml.html",
     "estado": "IN STOCK"
   },
@@ -4090,42 +4090,42 @@
   {
     "sku": "PAQSDJ06",
     "nombre": "Duo Sol de Janeiro Body Mist Cheirosa 59 y 71 90 ml",
-    "precio": 799.0,
+    "precio": 759.0,
     "url": "https://amoramarket.com.mx/duo-sol-de-janeiro-body-mist-cheirosa-59-y-71-90-ml.html",
     "estado": "IN STOCK"
   },
   {
     "sku": "PAQSDJ04",
     "nombre": "Duo Sol de Janeiro Body Mist Cheirosa 68 y 40 90 ml",
-    "precio": 799.0,
+    "precio": 759.0,
     "url": "https://amoramarket.com.mx/duo-sol-de-janeiro-body-mist-cheirosa-68-y-40-90-ml.html",
     "estado": "IN STOCK"
   },
   {
     "sku": "PAQSDJ05",
     "nombre": "Duo Sol de Janeiro Body Mist Cheirosa 68 y 62 240 ml",
-    "precio": 1209.0,
+    "precio": 1149.0,
     "url": "https://amoramarket.com.mx/duo-sol-de-janeiro-body-mist-cheirosa-68-y-62-240-ml.html",
     "estado": "IN STOCK"
   },
   {
     "sku": "PAQSDJ09",
     "nombre": "Duo Sol de Janeiro Cheirosa 62 240 ml + Bom Dia Bright 240 ml",
-    "precio": 1369.0,
+    "precio": 1299.0,
     "url": "https://amoramarket.com.mx/duo-sol-de-janeiro-cheirosa-62-240-ml-bom-dia-bright-240-ml.html",
     "estado": "IN STOCK"
   },
   {
     "sku": "PAQSDJ08",
     "nombre": "Duo Sol de Janeiro Cheirosa 68 240 ml + Crema Bum Bum 240 ml",
-    "precio": 1369.0,
+    "precio": 1299.0,
     "url": "https://amoramarket.com.mx/duo-sol-de-janeiro-cheirosa-68-240-ml-crema-bum-bum-240-ml.html",
     "estado": "IN STOCK"
   },
   {
     "sku": "PAQSDJ07",
     "nombre": "Duo Sol de Janeiro Cheirosa 68 90 ml + Beija Flor 240 ml",
-    "precio": 1169.0,
+    "precio": 1099.0,
     "url": "https://amoramarket.com.mx/duo-sol-de-janeiro-cheirosa-68-90-ml-beija-flor-240-ml.html",
     "estado": "IN STOCK"
   },
@@ -4722,6 +4722,13 @@
     "nombre": "FIFA CANADÁ 100ML EDP SPRAY",
     "precio": 1799.0,
     "url": "https://amoramarket.com.mx/fifa-canada-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQALJA02",
+    "nombre": "FIFA MÉXICO + FIFA USA EDP 100 ML",
+    "precio": 3399.0,
+    "url": "https://amoramarket.com.mx/fifa-mexico-fifa-usa-edp-100-ml.html",
     "estado": "IN STOCK"
   },
   {
@@ -7833,10 +7840,31 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "PAQCAL07",
+    "nombre": "PAQUETE CK BE 200ML EDT SPRAY/CK ONE 200ML EDT SPRAY",
+    "precio": 1049.0,
+    "url": "https://amoramarket.com.mx/paquete-ck-be-200ml-edt-spray-ck-one-200ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "10740-2",
+    "nombre": "PAQUETE CK ONE 100ML EDT SPRAY 2X1",
+    "precio": 919.0,
+    "url": "https://amoramarket.com.mx/paquete-ck-one-100ml-edt-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "10743X3",
     "nombre": "PAQUETE CK ONE 200ML EDT SPRAY 3 X PRECIO ESPECIAL",
     "precio": 1759.0,
     "url": "https://amoramarket.com.mx/paquete.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "080038-2",
+    "nombre": "PAQUETE COOL WATER 100ML EDT SPRAY 2x1",
+    "precio": 769.0,
+    "url": "https://amoramarket.com.mx/paquete-cool-water-100ml-edt-spray-2x1.html",
     "estado": "IN STOCK"
   },
   {
@@ -7847,10 +7875,52 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "70287776-2",
+    "nombre": "PAQUETE GUESS 75ML EDP SPRAY 2X1",
+    "precio": 769.0,
+    "url": "https://amoramarket.com.mx/paquete-guess-75ml-edp-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "34201-2",
+    "nombre": "PAQUETE HALLOWEEN 100ML EDT SPRAY 2X1",
+    "precio": 1239.0,
+    "url": "https://amoramarket.com.mx/paquete-halloween-100ml-edt-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "80948321-2",
+    "nombre": "PAQUETE LACOSTE ESSENTIAL 125ML EDT SPRAY 2X1",
+    "precio": 1299.0,
+    "url": "https://amoramarket.com.mx/paquete-lacoste-essential-125ml-edt-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "73541\\/2",
     "nombre": "PAQUETE LATTAFA ASAD 100ML EDP SPRAY X2",
     "precio": 799.0,
     "url": "https://amoramarket.com.mx/paquete-lattafa-asad-100ml-edp-spray-x2.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "508027X2",
+    "nombre": "PAQUETE NAUTICA BLUE 100ML EDT SPRAY",
+    "precio": 499.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-blue-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU05",
+    "nombre": "PAQUETE NAUTICA BLUE 100ML EDT SPRAY/NAUTICA BLUE SAIL 100ML EDT SPRAY",
+    "precio": 499.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-blue-100ml-edt-spray-nautica-blue-sail-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU02",
+    "nombre": "PAQUETE NAUTICA BLUE 100ML EDT SPRAY/NAUTICA CLASSIC 100ML EDT SPRAY",
+    "precio": 499.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-blue-100ml-edt-spray-nautica-classic-100ml-edt-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -7861,10 +7931,52 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "PAQNAU15",
+    "nombre": "PAQUETE NAUTICA BLUE 100ML EDT SPRAY/NAUTICA VOYAGE N-83 100ML EDT SPRAY",
+    "precio": 449.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-blue-100ml-edt-spray-nautica-voyage-n-83-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU11",
+    "nombre": "PAQUETE NAUTICA CLASSIC 100ML EDT SPRAY/NAUTICA BLUE SAIL 100ML EDT SPRAY",
+    "precio": 499.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-classic-100ml-edt-spray-nautica-blue-sail-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU04",
+    "nombre": "PAQUETE NAUTICA CLASSIC 100ML EDT SPRAY/NAUTICA HERITAGE 100ML EDT SPRAY",
+    "precio": 499.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-classic-100ml-edt-spray-nautica-heritage-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "PAQNAU09",
     "nombre": "PAQUETE NAUTICA CLASSIC 100ML EDT SPRAY/NAUTICA VOYAGE 100ML EDT SPRAY",
     "precio": 499.0,
     "url": "https://amoramarket.com.mx/paquete-nautica-classic-100ml-edt-spray-nautica-voyage-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU14",
+    "nombre": "PAQUETE NAUTICA CLASSIC 100ML EDT SPRAY/NAUTICA VOYAGE N-83 100ML EDT SPRAY",
+    "precio": 499.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-classic-100ml-edt-spray-nautica-voyage-n-83-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU12",
+    "nombre": "PAQUETE NAUTICA VOYAGE 100ML EDT SPRAY/NAUTICA BLUE SAIL 100ML EDT SPRAY",
+    "precio": 499.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-voyage-100ml-edt-spray-nautica-blue-sail-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PAQNAU03",
+    "nombre": "PAQUETE NAUTICA VOYAGE 100ML EDT SPRAY/NAUTICA VOYAGE N-83 100ML EDT SPRAY",
+    "precio": 499.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-voyage-100ml-edt-spray-nautica-voyage-n-83-100ml-edt-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -7875,10 +7987,31 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "PAQNAU13",
+    "nombre": "PAQUETE NAUTICA VOYAGE SPORT 100ML EDT SPRAY/NAUTICA VOYAGE N-83 100ML EDT SPRAY",
+    "precio": 499.0,
+    "url": "https://amoramarket.com.mx/paquete-nautica-voyage-sport-100ml-edt-spray-nautica-voyage-n-83-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "38271576-2",
+    "nombre": "PAQUETE PARIS HILTON 100ML EDP SPRAY 2X1",
+    "precio": 829.0,
+    "url": "https://amoramarket.com.mx/paquete-paris-hilton-100ml-edp-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "151430376-2",
     "nombre": "PAQUETE PARIS HILTON CAN CAN 100ML EDP SPRAY 2X1",
     "precio": 939.0,
     "url": "https://amoramarket.com.mx/paquete-paris-hilton-can-can-100ml-edp-spray-2x1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "04360076-2",
+    "nombre": "PAQUETE PERRY ELLIS 18 SENSUAL 100ML EDP SPRAY 2X1",
+    "precio": 909.0,
+    "url": "https://amoramarket.com.mx/paquete-perry-ellis-18-sensual-100ml-edp-spray-2x1.html",
     "estado": "IN STOCK"
   },
   {
@@ -8719,7 +8852,7 @@
     "nombre": "Sauvage 100 Ml Edp Spray.",
     "precio": 2649.0,
     "url": "https://amoramarket.com.mx/sauvage-100-ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "C099641399",
@@ -11778,7 +11911,7 @@
     "nombre": "Ysl Y 100Ml Edp Spray",
     "precio": 2259.0,
     "url": "https://amoramarket.com.mx/catalog/product/view/id/531047/s/ysl-y-100ml-edp-spray/category/112/",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "87532832",
