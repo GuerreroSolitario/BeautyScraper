@@ -1561,6 +1561,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "14937",
+    "nombre": "Armaf Odyssey Mandarin Sky 100Ml Edp Spray",
+    "precio": 599.0,
+    "url": "https://amoramarket.com.mx/armaf-odyssey-mandarin-sky-100ml-edp-spray.html",
+    "estado": "OUT OF STOCK"
+  },
+  {
     "sku": "14938",
     "nombre": "Armaf Odyssey Mega 100Ml Edp Spray",
     "precio": 399.0,
@@ -5870,7 +5877,7 @@
     "nombre": "Jean Paul Gaultier Le Male 125ml Edp Spray.",
     "precio": 1749.0,
     "url": "https://amoramarket.com.mx/jean-paul-gaultier-le-male-125ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "65173170",
@@ -8159,6 +8166,13 @@
     "nombre": "Parfums De Marly Safanad 75 Ml Edp Spray",
     "precio": 3929.0,
     "url": "https://amoramarket.com.mx/parfums-de-marly-safanad-75-ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "PM2200PV",
+    "nombre": "Parfums De Marly Sedley 125Ml Edp Spray",
+    "precio": 4969.0,
+    "url": "https://amoramarket.com.mx/parfums-de-marly-sedley-125ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
