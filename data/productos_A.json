@@ -3420,7 +3420,7 @@
     "nombre": "Ck Free 100ml Edt Spray.",
     "precio": 359.0,
     "url": "https://amoramarket.com.mx/ck-free-100ml-edt-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "1025040",
@@ -3588,7 +3588,7 @@
     "nombre": "Coach Platinum 100ml Edp Spray.",
     "precio": 559.0,
     "url": "https://amoramarket.com.mx/coach-platinum-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "1A7L016A01",
@@ -9811,7 +9811,7 @@
     "nombre": "Rasasi Hawas Black 100Ml Edp Spray",
     "precio": 599.0,
     "url": "https://amoramarket.com.mx/rasasi-hawas-black-100ml-edp-spray-2-html.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "5584420",
@@ -10980,7 +10980,7 @@
     "nombre": "Set Ferragamo Sublime Leather Intense 3Pzs",
     "precio": 649.0,
     "url": "https://amoramarket.com.mx/set-ferragamo-sublime-leather-intense-3pzs.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "JFE26090",
@@ -11459,18 +11459,18 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "11415",
-    "nombre": "Set Paris Hilton 4Pzs",
-    "precio": 739.0,
-    "url": "https://amoramarket.com.mx/set-2-paris-hilton-4pzs-html.html",
-    "estado": "OUT OF STOCK"
-  },
-  {
     "sku": "2002400",
     "nombre": "Set Paris Hilton 4Pzs",
     "precio": 739.0,
     "url": "https://amoramarket.com.mx/catalog/product/view/id/531815/s/set9-paris-hilton-4pzs-html/category/112/",
     "estado": "IN STOCK"
+  },
+  {
+    "sku": "11415",
+    "nombre": "Set Paris Hilton 4Pzs",
+    "precio": 739.0,
+    "url": "https://amoramarket.com.mx/set-2-paris-hilton-4pzs-html.html",
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "2001400",
