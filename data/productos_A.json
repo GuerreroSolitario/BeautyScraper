@@ -1796,7 +1796,7 @@
     "nombre": "Armaf Odyssey Homme White Edition 100Ml Edp Spray",
     "precio": 399.0,
     "url": "https://amoramarket.com.mx/armaf-odyssey-homme-white-edition-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "16393",
@@ -2636,7 +2636,7 @@
     "nombre": "Bharara Mast Azul 100Ml Edp Spray",
     "precio": 399.0,
     "url": "https://amoramarket.com.mx/bharara-mast-azul-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "R062950",
@@ -9888,6 +9888,13 @@
     "nombre": "Passion Men 120 Ml Edc Spray.",
     "precio": 289.0,
     "url": "https://amoramarket.com.mx/passion-men-120-ml-edc-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "1300740310",
+    "nombre": "PERFUME VERSACE EROS NAJIM 100ML PARFUM CABALLERO",
+    "precio": 1739.0,
+    "url": "https://amoramarket.com.mx/perfume-versace-eros-najim-100ml-parfum-caballero.html",
     "estado": "IN STOCK"
   },
   {
