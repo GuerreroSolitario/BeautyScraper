@@ -623,6 +623,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "ADP082777",
+    "nombre": "Acqua Di Parma Crystal Incense 100Ml Edp Spray",
+    "precio": 3129.0,
+    "url": "https://amoramarket.com.mx/acqua-di-parma-crystal-incense-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "ADPO82818",
     "nombre": "Acqua Di Parma Essenza 180Ml Edc Spray",
     "precio": 2399.0,
@@ -3675,6 +3682,27 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "12193",
+    "nombre": "Clive Christian Crab Apple Blossom 50 Ml Edp Spray",
+    "precio": 7169.0,
+    "url": "https://amoramarket.com.mx/clive-christian-crab-apple-blossom-50-ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "12308",
+    "nombre": "Clive Christian Jump Up And Kiss Me Hedonistics 50Ml Edp Spray",
+    "precio": 7169.0,
+    "url": "https://amoramarket.com.mx/clive-christian-jump-up-and-kiss-me-hedonistics-50ml-edp-spray-1-html.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "12216",
+    "nombre": "Clive Christian Matsukita 50Ml Edp Spray",
+    "precio": 7169.0,
+    "url": "https://amoramarket.com.mx/clive-christian-matsukita-50ml-edp-spray-1-html.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "11530",
     "nombre": "Clive Christian Town & Country 50Ml Edp Spray",
     "precio": 6859.0,
@@ -6668,7 +6696,7 @@
     "nombre": "Initio Atomic Rose 90Ml Edp Spray",
     "precio": 4769.0,
     "url": "https://amoramarket.com.mx/initio-atomic-rose-90ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "NINBG0001SP",
@@ -8999,7 +9027,7 @@
     "nombre": "Nishane Colognise 100Ml Extracto De Colonia Spray",
     "precio": 2009.0,
     "url": "https://amoramarket.com.mx/nishane-colognise-100ml-extracto-de-colonia-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "55579",
@@ -10108,6 +10136,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "NPM0600PV",
+    "nombre": "Pegasus 125Ml Edp Spray",
+    "precio": 5349.0,
+    "url": "https://amoramarket.com.mx/pegasus-125ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "1300740310",
     "nombre": "PERFUME VERSACE EROS NAJIM 100ML PARFUM CABALLERO",
     "precio": 1679.0,
@@ -10675,6 +10710,20 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "FS331071",
+    "nombre": "Rasasi Hawas Malibu 100Ml Edp Spray",
+    "precio": 779.0,
+    "url": "https://amoramarket.com.mx/rasasi-hawas-malibu-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "FS178072",
+    "nombre": "Rasasi Hawas Pink 100Ml Edp Spray",
+    "precio": 779.0,
+    "url": "https://amoramarket.com.mx/rasasi-hawas-pink-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "5584420",
     "nombre": "Red Door 100 Ml Edt Spray.",
     "precio": 569.0,
@@ -10728,6 +10777,13 @@
     "nombre": "Roja Elysium Pour Homme 100Ml Edp Spray",
     "precio": 4689.0,
     "url": "https://amoramarket.com.mx/roja-elysium-pour-homme-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "RD2565",
+    "nombre": "Roja Isola Blu Parfum 50Ml Edp Spray",
+    "precio": 5579.0,
+    "url": "https://amoramarket.com.mx/roja-isola-blu-parfum-50ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -12936,6 +12992,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "65228922",
+    "nombre": "Shakira Sugar Kiss 80Ml Edt Spray",
+    "precio": 389.0,
+    "url": "https://amoramarket.com.mx/shakira-sugar-kiss-80ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "11355",
     "nombre": "Shalimar 90 Ml Edp Spray.",
     "precio": 1219.0,
@@ -13689,7 +13752,7 @@
     "nombre": "Tubbees Blueberry Sorbet 50Ml Edp Spray",
     "precio": 129.0,
     "url": "https://amoramarket.com.mx/tubbees-blueberry-sorbet-50ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "P4868",
