@@ -879,7 +879,7 @@
     "nombre": "Adolfo Dominguez Neroli 120Ml Edt Spray Caballero",
     "precio": 499.0,
     "url": "https://amoramarket.com.mx/adolfo-dominguez-neroli-120ml-edt-spray-caballero.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "65200667",
@@ -2181,6 +2181,13 @@
     "nombre": "Bad Boy Extreme 150Ml Edp Spray",
     "precio": 2149.0,
     "url": "https://amoramarket.com.mx/bad-boy-extreme-150ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "65141797",
+    "nombre": "Bambu Radiant 100 Ml Edt Spray",
+    "precio": 649.0,
+    "url": "https://amoramarket.com.mx/bambu-radiant-100-ml-edt-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -7840,6 +7847,13 @@
     "estado": "OUT OF STOCK"
   },
   {
+    "sku": "34912",
+    "nombre": "Lattafa Eclaire Pistache 100Ml Edp Spray",
+    "precio": 639.0,
+    "url": "https://amoramarket.com.mx/lattafa-eclaire-pistache-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "06902",
     "nombre": "Lattafa Ejaazi 100Ml Edp Spray",
     "precio": 219.0,
@@ -7887,6 +7901,13 @@
     "precio": 79.0,
     "url": "https://amoramarket.com.mx/lattafa-khamrah-air-freshener-300ml-spray.html",
     "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "34237",
+    "nombre": "Lattafa Khamrah Dukhan 100Ml Edp Spray",
+    "precio": 449.0,
+    "url": "https://amoramarket.com.mx/lattafa-khamrah-dukhan-100ml-edp-spray.html",
+    "estado": "IN STOCK"
   },
   {
     "sku": "59011",
@@ -8001,6 +8022,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "59271",
+    "nombre": "Lattafa Pride Artisan Ethnique 100Ml Edp Spray",
+    "precio": 459.0,
+    "url": "https://amoramarket.com.mx/lattafa-pride-artisan-ethnique-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "73811",
     "nombre": "Lattafa Pride Eternal Oud 100Ml Edp Spray",
     "precio": 489.0,
@@ -8057,6 +8085,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "59909",
+    "nombre": "Lattafa Sehr 100Ml Edp Spray",
+    "precio": 579.0,
+    "url": "https://amoramarket.com.mx/lattafa-sehr-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "06398",
     "nombre": "Lattafa Sheikh Shuyukh Luxe Edition 100Ml Edp Spray",
     "precio": 209.0,
@@ -8075,6 +8110,13 @@
     "nombre": "Lattafa Ta'Weel 100Ml Edp Spray",
     "precio": 389.0,
     "url": "https://amoramarket.com.mx/lattafa-ta-weel-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "59576",
+    "nombre": "Lattafa Teriaq 100Ml Edp Spray",
+    "precio": 429.0,
+    "url": "https://amoramarket.com.mx/lattafa-teriaq-100ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -8803,6 +8845,13 @@
     "nombre": "Moschino Toy Boy 100ml Edp Spray.",
     "precio": 959.0,
     "url": "https://amoramarket.com.mx/moschino-toy-boy-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "1260600110",
+    "nombre": "Moschino Toy Boy 2 100Ml Edp Spray",
+    "precio": 1079.0,
+    "url": "https://amoramarket.com.mx/moschino-toy-boy-2-100ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -11389,6 +11438,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "65214556",
+    "nombre": "Set Banderas Her Secret Absolu 2Pzs",
+    "precio": 459.0,
+    "url": "https://amoramarket.com.mx/set-banderas-her-secret-absolu-2pzs.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "65200859",
     "nombre": "SET BANDERAS HER SECRET DESIRE 2PZS 80ML EDT SPRAY /DESODORANTE 150ML SPRAY",
     "precio": 349.0,
@@ -11410,10 +11466,24 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "65205288",
+    "nombre": "Set Banderas The Icon 2Pzs",
+    "precio": 509.0,
+    "url": "https://amoramarket.com.mx/set-banderas-the-icon-2pzs-1-html.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "65205340",
     "nombre": "Set Banderas The Icon Elixir 2Pzs",
     "precio": 449.0,
     "url": "https://amoramarket.com.mx/set-banderas-the-icon-elixir-2pzs.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "65214549",
+    "nombre": "Set Banderas The Icon Elixir 2Pzs",
+    "precio": 529.0,
+    "url": "https://amoramarket.com.mx/set-banderas-the-icon-elixir-2pzs-1-html.html",
     "estado": "IN STOCK"
   },
   {
@@ -11515,6 +11585,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "65235049",
+    "nombre": "Set Benetton Sisterland Golden Vanilla 2Pzs",
+    "precio": 629.0,
+    "url": "https://amoramarket.com.mx/set-benetton-sisterland-golden-vanilla-2pzs-1-html.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "85200787",
     "nombre": "Set Benetton Sisterland Green Jasmine + Body Lotion",
     "precio": 399.0,
@@ -11550,6 +11627,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "65235053",
+    "nombre": "Set Benetton Sisterland Yellow Peony 2Pzs",
+    "precio": 559.0,
+    "url": "https://amoramarket.com.mx/set-benetton-sisterland-yellow-peony-2pzs-1-html.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "65200796",
     "nombre": "Set Benetton United Dreams Forever Green 2Pzs",
     "precio": 499.0,
@@ -11568,6 +11652,13 @@
     "nombre": "Set Benetton United Dreams Forever Green Man 2Pzs 100Ml Edt Spray/ 10Ml Edt Spray",
     "precio": 399.0,
     "url": "https://amoramarket.com.mx/set-benetton-united-dreams-forever-green-man-2pzs-100ml-edt-spray-10ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "98202879",
+    "nombre": "Set Benetton United Dreams Love Yourself 2Pzs",
+    "precio": 489.0,
+    "url": "https://amoramarket.com.mx/set-benetton-united-dreams-love-yourself-2pzs-1-html.html",
     "estado": "IN STOCK"
   },
   {
@@ -12145,6 +12236,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "65200378",
+    "nombre": "Set Her Secret Absolu 2Pzs",
+    "precio": 459.0,
+    "url": "https://amoramarket.com.mx/set-her-secret-absolu-2pzs.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "65143236",
     "nombre": "Set Her Secret Desire 2pzs 80ml Edt Spray/ Desodorante 150ml Spray.",
     "precio": 349.0,
@@ -12296,6 +12394,34 @@
     "nombre": "Set Lattafa Fakhar 100ml + Desodorante 200ml",
     "precio": 429.0,
     "url": "https://amoramarket.com.mx/set-lattafa-fakhar-100ml-desodorante-200ml.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "34655",
+    "nombre": "Set Lattafa Pride Affection 4Pzs",
+    "precio": 429.0,
+    "url": "https://amoramarket.com.mx/set-lattafa-pride-affection-4pzs.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "34719",
+    "nombre": "Set Lattafa Pride Brioche Vanille 4Pzs",
+    "precio": 429.0,
+    "url": "https://amoramarket.com.mx/set-lattafa-pride-brioche-vanille-4pzs.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "34657",
+    "nombre": "Set Lattafa Pride Ishq Al Shuyukh Silver 4Pzs",
+    "precio": 439.0,
+    "url": "https://amoramarket.com.mx/set-lattafa-pride-ishq-al-shuyukh-silver-4pzs.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "34659",
+    "nombre": "Set Lattafa Pride Vintage Radio 4Pzs",
+    "precio": 549.0,
+    "url": "https://amoramarket.com.mx/set-lattafa-pride-vintage-radio-4pzs.html",
     "estado": "IN STOCK"
   },
   {
@@ -12586,6 +12712,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "1441013346",
+    "nombre": "Set Paris Hilton 4Pzs",
+    "precio": 779.0,
+    "url": "https://amoramarket.com.mx/set-paris-hilton-4pzs-1-html.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "2001400",
     "nombre": "Set Paris Hilton Gold Rush 4Pzs",
     "precio": 729.0,
@@ -12695,6 +12828,13 @@
     "nombre": "Set Power Of Seduction 2Pzs",
     "precio": 349.0,
     "url": "https://amoramarket.com.mx/set-power-of-seduction-2pzs-1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "65190816",
+    "nombre": "Set Power Of Seduction 2Pzs",
+    "precio": 429.0,
+    "url": "https://amoramarket.com.mx/set-power-of-seduction-2pzs-1-html.html",
     "estado": "IN STOCK"
   },
   {
@@ -12814,6 +12954,13 @@
     "nombre": "Set The Secret 2Pzs",
     "precio": 349.0,
     "url": "https://amoramarket.com.mx/set-the-secret-2pzs-1.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "65159925",
+    "nombre": "Set The Secret 2Pzs",
+    "precio": 379.0,
+    "url": "https://amoramarket.com.mx/set-the-secret-2pzs-1-html.html",
     "estado": "IN STOCK"
   },
   {
