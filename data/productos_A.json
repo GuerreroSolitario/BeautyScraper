@@ -214,7 +214,7 @@
     "nombre": "360º Red 100 Ml Edt Spray.",
     "precio": 379.0,
     "url": "https://amoramarket.com.mx/360-red-100-ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "2866",
@@ -1075,7 +1075,7 @@
     "nombre": "Al Haramain Amber Oud Aqua Dubai 100Ml Extracto De Perfume Spray",
     "precio": 929.0,
     "url": "https://amoramarket.com.mx/al-haramain-amber-oud-aqua-dubai-100ml-extracto-de-perfume-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "AHP1228",
@@ -1537,7 +1537,7 @@
     "nombre": "Armaf Club De Nuit Bling Men 75Ml Edp Spray",
     "precio": 599.0,
     "url": "https://amoramarket.com.mx/armaf-club-de-nuit-bling-men-75ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "16415",
@@ -1628,7 +1628,7 @@
     "nombre": "Armaf Club De Nuit Urban Man Elixir 105Ml Edp Spray",
     "precio": 449.0,
     "url": "https://amoramarket.com.mx/armaf-club-de-nuit-urban-man-elixir-105ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "09415",
@@ -1719,7 +1719,7 @@
     "nombre": "Armaf Odyssey Mandarin Sky 100Ml Edp Spray",
     "precio": 399.0,
     "url": "https://amoramarket.com.mx/armaf-odyssey-mandarin-sky-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "19066",
@@ -2839,6 +2839,13 @@
     "nombre": "Boss Bottled 100 Ml Edp Spray",
     "precio": 1019.0,
     "url": "https://amoramarket.com.mx/boss-bottled-100-ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "82854",
+    "nombre": "Boss Bottled 200Ml Edp Spray",
+    "precio": 1209.0,
+    "url": "https://amoramarket.com.mx/boss-bottled-200ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -10028,7 +10035,7 @@
     "nombre": "Polo Sport 125ml Edt Spray.",
     "precio": 899.0,
     "url": "https://amoramarket.com.mx/polo-sport-125ml-edt-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "S4420500",
@@ -11428,6 +11435,13 @@
     "nombre": "Set Dkny 24/7 3Pzs",
     "precio": 469.0,
     "url": "https://amoramarket.com.mx/set-dkny-24-7-3pzs-3-html.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "96114",
+    "nombre": "Set Dkny Be Delicious 3Pzs",
+    "precio": 919.0,
+    "url": "https://amoramarket.com.mx/set3-dkny-be-delicious-3pzs-html.html",
     "estado": "IN STOCK"
   },
   {
