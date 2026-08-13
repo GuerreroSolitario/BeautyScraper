@@ -840,6 +840,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "10728",
+    "nombre": "Afnan 9AM Dive 100Ml Edp Spray",
+    "precio": 499.0,
+    "url": "https://amoramarket.com.mx/ferragamo-uomo-signature-pour-homme-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "10759",
     "nombre": "Afnan 9Am Dive 150Ml Edp Spray",
     "precio": 609.0,
@@ -1880,7 +1887,7 @@
     "nombre": "Atkinsons 41 Burlington Arcade 100Ml Edp Spray",
     "precio": 1019.0,
     "url": "https://amoramarket.com.mx/atkinsons-41-burlington-arcade-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "1E53060310",
@@ -3546,6 +3553,13 @@
     "nombre": "Coach Man Blue 100ml Edt Spray.",
     "precio": 659.0,
     "url": "https://amoramarket.com.mx/coach-man-blue-100ml-edt-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "CC007A01",
+    "nombre": "Coach Platinum 100ml Edp Spray.",
+    "precio": 559.0,
+    "url": "https://amoramarket.com.mx/coach-platinum-100ml-edp-spray.html",
     "estado": "IN STOCK"
   },
   {
@@ -7651,6 +7665,13 @@
     "estado": "OUT OF STOCK"
   },
   {
+    "sku": "59878",
+    "nombre": "Lattafa Victoria 100Ml Edp Spray",
+    "precio": 519.0,
+    "url": "https://amoramarket.com.mx/lattafa-victoria-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "59290",
     "nombre": "Lattafa Vintage Radio 100Ml Edp Spray",
     "precio": 499.0,
@@ -11603,7 +11624,7 @@
     "nombre": "Set Lattafa Pride Affection 4Pzs",
     "precio": 439.0,
     "url": "https://amoramarket.com.mx/set-lattafa-pride-affection-4pzs.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "34719",
@@ -12495,6 +12516,13 @@
     "estado": "IN STOCK"
   },
   {
+    "sku": "ARG2LR16134",
+    "nombre": "Sweet Like Candy 100 Ml Edp Spray.",
+    "precio": 689.0,
+    "url": "https://amoramarket.com.mx/sweet-like-candy-100-ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "T65198170",
     "nombre": "TESTER 212 VIP ROSE ELIXIR 80ML EDP SPRAY",
     "precio": 1699.0,
@@ -13031,14 +13059,14 @@
     "nombre": "Tubbees Berry Explosion 50Ml Edp Spray",
     "precio": 99.0,
     "url": "https://amoramarket.com.mx/tubbees-berry-explosion-50ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "P5690",
     "nombre": "Tubbees Blueberry Sorbet 50Ml Edp Spray",
     "precio": 99.0,
     "url": "https://amoramarket.com.mx/tubbees-blueberry-sorbet-50ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "P4868",
@@ -13052,7 +13080,7 @@
     "nombre": "Tubbees Candy Apple 50Ml Edp Spray",
     "precio": 99.0,
     "url": "https://amoramarket.com.mx/tubbees-candy-apple-50ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "P5576",
@@ -13108,7 +13136,7 @@
     "nombre": "TUBBEES LEMON A LICIOUS 50ML EDP SPRAY",
     "precio": 99.0,
     "url": "https://amoramarket.com.mx/tubbees-lemon-a-licious-50ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "P5694",
@@ -13122,7 +13150,7 @@
     "nombre": "Tubbees Passion Fruit Mojito 50Ml Edp Spray",
     "precio": 99.0,
     "url": "https://amoramarket.com.mx/tubbees-passion-fruit-mojito-50ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "P5573",
@@ -13157,14 +13185,14 @@
     "nombre": "Tubbees Sweet Mango Melody 50Ml Edp Spray",
     "precio": 99.0,
     "url": "https://amoramarket.com.mx/tubbees-sweet-mango-melody-50ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "P5697",
     "nombre": "Tubbees Tira Miss You 50Ml Edp Spray",
     "precio": 99.0,
     "url": "https://amoramarket.com.mx/tubbees-tira-miss-you-50ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "P4865",
