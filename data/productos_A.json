@@ -207,7 +207,7 @@
     "nombre": "360º Red 100 Ml Edp Spray.",
     "precio": 389.0,
     "url": "https://amoramarket.com.mx/360-red-100-ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "12252877",
@@ -984,7 +984,7 @@
     "nombre": "Agua De Loewe Ella 100Ml Edt Spray",
     "precio": 1689.0,
     "url": "https://amoramarket.com.mx/agua-de-loewe-ella-100ml-edt-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "65177561",
@@ -10661,17 +10661,17 @@
     "estado": "OUT OF STOCK"
   },
   {
-    "sku": "ARGLP22534GSW",
-    "nombre": "Set Ari By Ariana Grande 3Pzs",
-    "precio": 899.0,
-    "url": "https://amoramarket.com.mx/set-ari-by-ariana-grande-3pzs.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "ARGLP245BGSW",
     "nombre": "Set Ari By Ariana Grande 3Pzs",
     "precio": 899.0,
     "url": "https://amoramarket.com.mx/set-ari-by-ariana-grande-3pzs-1-html.html",
+    "estado": "IN STOCK"
+  },
+  {
+    "sku": "ARGLP22534GSW",
+    "nombre": "Set Ari By Ariana Grande 3Pzs",
+    "precio": 899.0,
+    "url": "https://amoramarket.com.mx/set-ari-by-ariana-grande-3pzs.html",
     "estado": "IN STOCK"
   },
   {
