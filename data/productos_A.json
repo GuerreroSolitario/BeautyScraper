@@ -469,6 +469,13 @@
     "estado": "OUT OF STOCK"
   },
   {
+    "sku": "LE309800",
+    "nombre": "Acqua Di Gio Profondo Parfum 100Ml Edp Spray",
+    "precio": 2179.0,
+    "url": "https://amoramarket.com.mx/acqua-di-gio-profondo-parfum-100ml-edp-spray.html",
+    "estado": "IN STOCK"
+  },
+  {
     "sku": "LE309600",
     "nombre": "ACQUA DI GIO PROFONDO PARFUM 200ML",
     "precio": 2899.0,
@@ -1593,7 +1600,7 @@
     "nombre": "Armaf Club De Nuit Intense 200Ml Body Spray",
     "precio": 99.0,
     "url": "https://amoramarket.com.mx/armaf-club-de-nuit-intense-200ml-body-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "13102",
@@ -1768,7 +1775,7 @@
     "nombre": "Armaf Odyssey Mandarin Sky 100Ml Edp Spray",
     "precio": 389.0,
     "url": "https://amoramarket.com.mx/armaf-odyssey-mandarin-sky-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "19066",
@@ -2167,7 +2174,7 @@
     "nombre": "Bad Boy Extreme 100Ml Edp Spray",
     "precio": 1749.0,
     "url": "https://amoramarket.com.mx/catalog/product/view/id/531862/s/bad8-boy-extreme-100ml-edp-spray-html/category/112/",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "65187320",
@@ -3567,7 +3574,7 @@
     "nombre": "Ck In 2u 100ml Edt Spray.",
     "precio": 319.0,
     "url": "https://amoramarket.com.mx/ck-in-2u-100ml-edt-spray-1.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "1027043",
@@ -6577,7 +6584,7 @@
     "nombre": "Initio Absolute Aphrodisiac 90Ml Edp Spray",
     "precio": 4859.0,
     "url": "https://amoramarket.com.mx/initio-absolute-aphrodisiac-90ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "096010CB0004SP",
@@ -9447,7 +9454,7 @@
     "nombre": "PAQUETE ARMAF ODYSSEY MANDARIN SKY 100ML EDP SPRAY X2",
     "precio": 679.0,
     "url": "https://amoramarket.com.mx/paquete-armaf-odyssey-mandarin-sky-100ml-edp-spray-x2.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "1E7LD11600\\/2",
@@ -10101,13 +10108,6 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "65215596",
-    "nombre": "Phantom Elixir Refillable 150Ml Edp Spray",
-    "precio": 1989.0,
-    "url": "https://amoramarket.com.mx/phantom-elixir-refillable-150ml-edp-spray.html",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "65200224",
     "nombre": "Phantom Intense 100Ml Edp Spray",
     "precio": 1549.0,
@@ -10189,7 +10189,7 @@
     "nombre": "Polo Blue 125 Ml Edp Spray.",
     "precio": 1499.0,
     "url": "https://amoramarket.com.mx/polo-blue-125-ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "3702292",
@@ -11043,7 +11043,7 @@
     "nombre": "Set Animale Men 3Pzs",
     "precio": 529.0,
     "url": "https://amoramarket.com.mx/set-animale-men-3pzs-5-html.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "65159919",
@@ -11085,7 +11085,7 @@
     "nombre": "Set Ari By Ariana Grande 3Pzs",
     "precio": 879.0,
     "url": "https://amoramarket.com.mx/set-ari-by-ariana-grande-3pzs-1-html.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "ARG4534GSW",
@@ -11148,7 +11148,7 @@
     "nombre": "Set Bad Boy Elixir 3Pzs 100Ml Edp Spray/ Shower Gel 100Ml/ 10Ml Edp Spray",
     "precio": 1859.0,
     "url": "https://amoramarket.com.mx/set-bad-boy-elixir-3pzs-100ml-edp-spray-shower-gel-100ml-10ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "65214510",
@@ -12856,7 +12856,7 @@
     "nombre": "Sol De Janeiro Cheirosa 40 90Ml Body Mist Spray",
     "precio": 399.0,
     "url": "https://amoramarket.com.mx/sol-de-janeiro-cheirosa-40-90ml-body-mist-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "203521",
@@ -13556,7 +13556,7 @@
     "nombre": "Tous Man Sport 100ml Edt Spray.",
     "precio": 379.0,
     "url": "https://amoramarket.com.mx/tous-man-sport-100ml-edt-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "803492",
