@@ -2156,18 +2156,18 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "65206733",
-    "nombre": "Bad Boy Extreme 100Ml Edp Spray",
-    "precio": 1749.0,
-    "url": "https://amoramarket.com.mx/catalog/product/view/id/531862/s/bad8-boy-extreme-100ml-edp-spray-html/category/112/",
-    "estado": "IN STOCK"
-  },
-  {
     "sku": "65187305",
     "nombre": "Bad Boy Extreme 100Ml Edp Spray",
     "precio": 1749.0,
     "url": "https://amoramarket.com.mx/bad-boy-extreme-100ml-edp-spray.html",
     "estado": "OUT OF STOCK"
+  },
+  {
+    "sku": "65206733",
+    "nombre": "Bad Boy Extreme 100Ml Edp Spray",
+    "precio": 1749.0,
+    "url": "https://amoramarket.com.mx/catalog/product/view/id/531862/s/bad8-boy-extreme-100ml-edp-spray-html/category/112/",
+    "estado": "IN STOCK"
   },
   {
     "sku": "65187320",
