@@ -431,7 +431,7 @@
     "nombre": "Acqua Di Gio Profondo 100Ml Edt Spray",
     "precio": 1579.0,
     "url": "https://amoramarket.com.mx/acqua-di-gio-profondo-100ml-edt-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "LE309800",
@@ -501,7 +501,7 @@
     "nombre": "Acqua Di Parma Blu Mediterraneo Mandarino Di Sicilia 180Ml Edt Spray",
     "precio": 2399.0,
     "url": "https://amoramarket.com.mx/acqua-di-parma-blu-mediterraneo-mandarino-di-sicilia-180ml-edt-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "ADP081669",
@@ -1572,7 +1572,7 @@
     "nombre": "Armaf Club De Nuit Urban Man Elixir 105Ml Edp Spray",
     "precio": 439.0,
     "url": "https://amoramarket.com.mx/armaf-club-de-nuit-urban-man-elixir-105ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "09415",
@@ -1789,7 +1789,7 @@
     "nombre": "Armani Code 75Ml Edp Refillable Spray",
     "precio": 1329.0,
     "url": "https://amoramarket.com.mx/armani-code-75ml-edp-refillable-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "60493",
@@ -2608,21 +2608,21 @@
     "nombre": "Bharara Rome Extradose Femme 100Ml Edp Spray",
     "precio": 419.0,
     "url": "https://amoramarket.com.mx/bharara-rome-extradose-femme-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "R062837",
     "nombre": "Bharara Rome Extradose Homme 100Ml Edp Spray",
     "precio": 469.0,
     "url": "https://amoramarket.com.mx/bharara-rome-extradose-homme-100ml-edp-spray.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "R506278",
     "nombre": "Bharara Rome Paradox 100Ml Edp Spray",
     "precio": 409.0,
     "url": "https://amoramarket.com.mx/bharara-rome-paradox-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "R006250",
@@ -2636,7 +2636,7 @@
     "nombre": "Bharara Rome Pour Homme 100Ml Edp Spray",
     "precio": 459.0,
     "url": "https://amoramarket.com.mx/bharara-rome-pour-homme-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "R240402",
@@ -4680,7 +4680,7 @@
     "nombre": "Eternity 200 Ml Edt Spray.",
     "precio": 839.0,
     "url": "https://amoramarket.com.mx/eternity-200-ml-edt-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "229040",
@@ -5254,7 +5254,7 @@
     "nombre": "Giorgio Armani Si Passione 100 Ml Edp Spray.",
     "precio": 1749.0,
     "url": "https://amoramarket.com.mx/giorgio-armani-si-passione-100-ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "LA550100",
@@ -6591,7 +6591,7 @@
     "nombre": "Jean Paul Gaultier Le Beau Paradise Garden 125Ml Edp Spray",
     "precio": 1579.0,
     "url": "https://amoramarket.com.mx/jean-paul-gaultier-le-beau-paradise-garden-125ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "65189084",
@@ -7753,7 +7753,7 @@
     "nombre": "Lattafa Yara 100Ml Edp Spray",
     "precio": 509.0,
     "url": "https://amoramarket.com.mx/lattafa-yara-100ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "73494",
@@ -8908,7 +8908,7 @@
     "nombre": "Orientica Luxury Collection Amber Rouge 150Ml Edp Spray",
     "precio": 1239.0,
     "url": "https://amoramarket.com.mx/orientica-luxury-collection-amber-rouge-150ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "OFS5842",
@@ -8999,7 +8999,7 @@
     "nombre": "Orientica Xo Xclusif Oud Classic 60Ml Edp Spray",
     "precio": 499.0,
     "url": "https://amoramarket.com.mx/orientica-xo-xclusif-oud-classic-60ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "OFS5775",
@@ -10252,7 +10252,7 @@
     "nombre": "Scuderia Ferrari Red 125 Ml Edt Spray.",
     "precio": 329.0,
     "url": "https://amoramarket.com.mx/scuderia-ferrari-red-125-ml-edt-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "65245987",
@@ -10770,7 +10770,7 @@
     "nombre": "Set Benetton United Dreams Together For Him 3Pzs",
     "precio": 399.0,
     "url": "https://amoramarket.com.mx/set-benetton-united-dreams-together-for-him-3pzs.html",
-    "estado": "OUT OF STOCK"
+    "estado": "IN STOCK"
   },
   {
     "sku": "65200790",
@@ -11897,7 +11897,7 @@
     "nombre": "Set Shakira Dance 2Pzs",
     "precio": 299.0,
     "url": "https://amoramarket.com.mx/set-shakira-dance-2pzs.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "61127971",
