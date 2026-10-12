@@ -5492,7 +5492,7 @@
     "nombre": "Ferrioni Terrier For Him 90Ml Edp Spray",
     "precio": 299.0,
     "url": "https://amoramarket.com.mx/ferrioni-terrier-for-him-90ml-edp-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "132M003034",
@@ -5877,7 +5877,7 @@
     "nombre": "Guess 1981 Indigo 100ml Edt Spray.",
     "precio": 299.0,
     "url": "https://amoramarket.com.mx/guess-1981-indigo-100ml-edt-spray.html",
-    "estado": "IN STOCK"
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "32198",
@@ -11221,18 +11221,18 @@
     "estado": "IN STOCK"
   },
   {
-    "sku": "65190826",
-    "nombre": "Set Antonio Banderas The Icon 2Pzs",
-    "precio": 399.0,
-    "url": "https://amoramarket.com.mx/set-antonio2-banderas-the-icon-2pzs-html.html",
-    "estado": "OUT OF STOCK"
-  },
-  {
     "sku": "65201412",
     "nombre": "Set Antonio Banderas The Icon 2Pzs",
     "precio": 399.0,
     "url": "https://amoramarket.com.mx/set-2-antonio-banderas-the-icon-2pzs-html.html",
     "estado": "IN STOCK"
+  },
+  {
+    "sku": "65190826",
+    "nombre": "Set Antonio Banderas The Icon 2Pzs",
+    "precio": 399.0,
+    "url": "https://amoramarket.com.mx/set-antonio2-banderas-the-icon-2pzs-html.html",
+    "estado": "OUT OF STOCK"
   },
   {
     "sku": "65201449",
